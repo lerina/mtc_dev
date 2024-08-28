@@ -9,3 +9,4 @@ pub mod centre;
 pub mod marque_oem;
 pub mod contact;
 pub mod famille_mtc;
+pub mod frontend;

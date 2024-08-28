@@ -1,10 +1,10 @@
 #![allow(clippy::missing_errors_doc)]
 #![allow(clippy::unnecessary_struct_initialization)]
 #![allow(clippy::unused_async)]
-use loco_rs::prelude::*;
-use serde::{Deserialize, Serialize};
-use sea_orm::{sea_query::Order, QueryOrder};
 use axum::debug_handler;
+use loco_rs::prelude::*;
+use sea_orm::{sea_query::Order, QueryOrder};
+use serde::{Deserialize, Serialize};
 
 use crate::{
     models::_entities::contacts::{ActiveModel, Column, Entity, Model},
@@ -16,14 +16,14 @@ pub struct Params {
     pub name: Option<String>,
     pub phone: Option<String>,
     pub email: Option<String>,
-    }
+}
 
 impl Params {
     fn update(&self, item: &mut ActiveModel) {
-      item.name = Set(self.name.clone());
-      item.phone = Set(self.phone.clone());
-      item.email = Set(self.email.clone());
-      }
+        item.name = Set(self.name.clone());
+        item.phone = Set(self.phone.clone());
+        item.email = Set(self.email.clone());
+    }
 }
 
 async fn load_item(ctx: &AppContext, id: i32) -> Result<Model> {
