@@ -1,0 +1,410 @@
+---
+- id: 1
+  letype: "Antan / MB.Actros MP 2 OM 470 1833-36-40-1843 année 2011 / 2033-36-40-43 / MB.Actros MP 4 STTA / Arocs / Antos"
+  created_at: "2023-11-12T12:34:56.789Z"
+  updated_at: "2023-11-12T12:34:56.789Z"
+- id: 2
+  letype: "CAT"
+  created_at: "2023-11-12T12:34:56.789Z"
+  updated_at: "2023-11-12T12:34:56.789Z"
+- id: 3
+  letype: "CAT Pelle 320 BL"
+  created_at: "2023-11-12T12:34:56.789Z"
+  updated_at: "2023-11-12T12:34:56.789Z"
+- id: 4
+  letype: "CAT Trax 962 / Grader 120H-135H / CAT D6M moteur 3116 / CAT 320 / Komatsu"
+  created_at: "2023-11-12T12:34:56.789Z"
+  updated_at: "2023-11-12T12:34:56.789Z"
+- id: 5
+  letype: "Caterpillar M 300"
+  created_at: "2023-11-12T12:34:56.789Z"
+  updated_at: "2023-11-12T12:34:56.789Z"
+- id: 6
+  letype: "Caterpillar M 318 D - CAT M 320 - Liehberr / Terex 3800"
+  created_at: "2023-11-12T12:34:56.789Z"
+  updated_at: "2023-11-12T12:34:56.789Z"
+- id: 7
+  letype: "Chariot Hyster H 300B / Porsche Cayen 918"
+  created_at: "2023-11-12T12:34:56.789Z"
+  updated_at: "2023-11-12T12:34:56.789Z"
+- id: 8
+  letype: "Compacteur Dynapac"
+  created_at: "2023-11-12T12:34:56.789Z"
+  updated_at: "2023-11-12T12:34:56.789Z"
+- id: 9
+  letype: "Compresseur"
+  created_at: "2023-11-12T12:34:56.789Z"
+  updated_at: "2023-11-12T12:34:56.789Z"
+- id: 10
+  letype: "DAF CF 65-75-85 220 / XF 95-105 / Scania P 260-300 / Volvo Chargeuse L 150E"
+  created_at: "2023-11-12T12:34:56.789Z"
+  updated_at: "2023-11-12T12:34:56.789Z"
+- id: 11
+  letype: "DAF CF 85 / XF 95 Euro 3 Phase 2"
+  created_at: "2023-11-12T12:34:56.789Z"
+  updated_at: "2023-11-12T12:34:56.789Z"
+- id: 12
+  letype: "DAF CF 85 360-510 / XF 105 410-560 / XF 106 510 Euro 6"
+  created_at: "2023-11-12T12:34:56.789Z"
+  updated_at: "2023-11-12T12:34:56.789Z"
+- id: 13
+  letype: "DAF F 45 / 55"
+  created_at: "2023-11-12T12:34:56.789Z"
+  updated_at: "2023-11-12T12:34:56.789Z"
+- id: 14
+  letype: "DAF F 95"
+  created_at: "2023-11-12T12:34:56.789Z"
+  updated_at: "2023-11-12T12:34:56.789Z"
+- id: 15
+  letype: "DAF F 95  / F 95 XF Euro 2 / XF 95 430 Phase 1 / XF 95 Euro 3 Phase 1"
+  created_at: "2023-11-12T12:34:56.789Z"
+  updated_at: "2023-11-12T12:34:56.789Z"
+- id: 16
+  letype: "DAF F 95 XF / RVI Premium 400"
+  created_at: "2023-11-12T12:34:56.789Z"
+  updated_at: "2023-11-12T12:34:56.789Z"
+- id: 17
+  letype: "DAF F 95 XF 380-530 ( Janvier 97 à 2002 ) / CF 85"
+  created_at: "2023-11-12T12:34:56.789Z"
+  updated_at: "2023-11-12T12:34:56.789Z"
+- id: 18
+  letype: "DAF LF 45 220 - Donfeng"
+  created_at: "2023-11-12T12:34:56.789Z"
+  updated_at: "2023-11-12T12:34:56.789Z"
+- id: 19
+  letype: "DAF XF 105 460 / CF 85 / XF 95"
+  created_at: "2023-11-12T12:34:56.789Z"
+  updated_at: "2023-11-12T12:34:56.789Z"
+- id: 20
+  letype: "DAF XF 105 480 / CF 85 Euro 4"
+  created_at: "2023-11-12T12:34:56.789Z"
+  updated_at: "2023-11-12T12:34:56.789Z"
+- id: 21
+  letype: "Hino / Grader"
+  created_at: "2023-11-12T12:34:56.789Z"
+  updated_at: "2023-11-12T12:34:56.789Z"
+- id: 22
+  letype: "Iveco / DAF / Man"
+  created_at: "2023-11-12T12:34:56.789Z"
+  updated_at: "2023-11-12T12:34:56.789Z"
+- id: 23
+  letype: "Iveco Stralis 480 moteur cursor 13 / Astra / Iveco Stralis 430 Double essieu"
+  created_at: "2023-11-12T12:34:56.789Z"
+  updated_at: "2023-11-12T12:34:56.789Z"
+- id: 24
+  letype: "Iveco Stralis Euro 5"
+  created_at: "2023-11-12T12:34:56.789Z"
+  updated_at: "2023-11-12T12:34:56.789Z"
+- id: 25
+  letype: "Iveco Stralis Euro 6 / HONGYAN GENLYON SFH moteur F2CE/C9 286-394 / HONGYAN GENLYON SFH moteur C13 / Cursor13 HP 346-556"
+  created_at: "2023-11-12T12:34:56.789Z"
+  updated_at: "2023-11-12T12:34:56.789Z"
+- id: 26
+  letype: "Komatsu PC 200-6 / Groupe electrogéne TEKSAN 350 KVA / T King"
+  created_at: "2023-11-12T12:34:56.789Z"
+  updated_at: "2023-11-12T12:34:56.789Z"
+- id: 27
+  letype: "Komatsu PC 210 LC-8"
+  created_at: "2023-11-12T12:34:56.789Z"
+  updated_at: "2023-11-12T12:34:56.789Z"
+- id: 28
+  letype: "Komatsu WA 500-1"
+  created_at: "2023-11-12T12:34:56.789Z"
+  updated_at: "2023-11-12T12:34:56.789Z"
+- id: 29
+  letype: "Man TGA 18.520-540-640 D38 moteur D 3876"
+  created_at: "2023-11-12T12:34:56.789Z"
+  updated_at: "2023-11-12T12:34:56.789Z"
+- id: 30
+  letype: "MB.1617"
+  created_at: "2023-11-12T12:34:56.789Z"
+  updated_at: "2023-11-12T12:34:56.789Z"
+- id: 31
+  letype: "MB.1722"
+  created_at: "2023-11-12T12:34:56.789Z"
+  updated_at: "2023-11-12T12:34:56.789Z"
+- id: 32
+  letype: "MB.1922"
+  created_at: "2023-11-12T12:34:56.789Z"
+  updated_at: "2023-11-12T12:34:56.789Z"
+- id: 33
+  letype: "MB.1928"
+  created_at: "2023-11-12T12:34:56.789Z"
+  updated_at: "2023-11-12T12:34:56.789Z"
+- id: 34
+  letype: "MB.1929"
+  created_at: "2023-11-12T12:34:56.789Z"
+  updated_at: "2023-11-12T12:34:56.789Z"
+- id: 35
+  letype: "MB.1929 / MB.Axor / Actros 1840"
+  created_at: "2023-11-12T12:34:56.789Z"
+  updated_at: "2023-11-12T12:34:56.789Z"
+- id: 36
+  letype: "MB.1935"
+  created_at: "2023-11-12T12:34:56.789Z"
+  updated_at: "2023-11-12T12:34:56.789Z"
+- id: 37
+  letype: "MB.1935 / DAF XF 95"
+  created_at: "2023-11-12T12:34:56.789Z"
+  updated_at: "2023-11-12T12:34:56.789Z"
+- id: 38
+  letype: "MB.1948"
+  created_at: "2023-11-12T12:34:56.789Z"
+  updated_at: "2023-11-12T12:34:56.789Z"
+- id: 39
+  letype: "MB.917"
+  created_at: "2023-11-12T12:34:56.789Z"
+  updated_at: "2023-11-12T12:34:56.789Z"
+- id: 40
+  letype: "MB.Actros"
+  created_at: "2023-11-12T12:34:56.789Z"
+  updated_at: "2023-11-12T12:34:56.789Z"
+- id: 41
+  letype: "MB.Actros 1831 à 1943 / MB.Actros II"
+  created_at: "2023-11-12T12:34:56.789Z"
+  updated_at: "2023-11-12T12:34:56.789Z"
+- id: 42
+  letype: "MB.Actros 1831 double essieu"
+  created_at: "2023-11-12T12:34:56.789Z"
+  updated_at: "2023-11-12T12:34:56.789Z"
+- id: 43
+  letype: "MB.Actros 1835"
+  created_at: "2023-11-12T12:34:56.789Z"
+  updated_at: "2023-11-12T12:34:56.789Z"
+- id: 44
+  letype: "MB.Actros 1835-1840 / MB.Axor"
+  created_at: "2023-11-12T12:34:56.789Z"
+  updated_at: "2023-11-12T12:34:56.789Z"
+- id: 45
+  letype: "MB.Actros 1840 / Axor Plateau 2635"
+  created_at: "2023-11-12T12:34:56.789Z"
+  updated_at: "2023-11-12T12:34:56.789Z"
+- id: 46
+  letype: "MB.Actros 1842 Euro 6 / Actros 1845 MP 4 OM 471"
+  created_at: "2023-11-12T12:34:56.789Z"
+  updated_at: "2023-11-12T12:34:56.789Z"
+- id: 47
+  letype: "MB.Actros 1843"
+  created_at: "2023-11-12T12:34:56.789Z"
+  updated_at: "2023-11-12T12:34:56.789Z"
+- id: 48
+  letype: "MB.Actros 1846 MP 2"
+  created_at: "2023-11-12T12:34:56.789Z"
+  updated_at: "2023-11-12T12:34:56.789Z"
+- id: 49
+  letype: "MB.Actros 1848"
+  created_at: "2023-11-12T12:34:56.789Z"
+  updated_at: "2023-11-12T12:34:56.789Z"
+- id: 50
+  letype: "MB.Actros 1857 / Man F 2000 / DAF CF 430 / SMB / SAF / TGA / ROR"
+  created_at: "2023-11-12T12:34:56.789Z"
+  updated_at: "2023-11-12T12:34:56.789Z"
+- id: 51
+  letype: "MB.Actros MP 4"
+  created_at: "2023-11-12T12:34:56.789Z"
+  updated_at: "2023-11-12T12:34:56.789Z"
+- id: 52
+  letype: "MB.Atego"
+  created_at: "2023-11-12T12:34:56.789Z"
+  updated_at: "2023-11-12T12:34:56.789Z"
+- id: 53
+  letype: "MB.Atego 1 ( 712-1533 )"
+  created_at: "2023-11-12T12:34:56.789Z"
+  updated_at: "2023-11-12T12:34:56.789Z"
+- id: 54
+  letype: "MB.Atego 1 ( 712-1533 ) / MB.Vario 816"
+  created_at: "2023-11-12T12:34:56.789Z"
+  updated_at: "2023-11-12T12:34:56.789Z"
+- id: 55
+  letype: "MB.Atego 712-1533 OM 904 LA année 98  / MB.Axor 1828"
+  created_at: "2023-11-12T12:34:56.789Z"
+  updated_at: "2023-11-12T12:34:56.789Z"
+- id: 56
+  letype: "MB.Atego Phase 2"
+  created_at: "2023-11-12T12:34:56.789Z"
+  updated_at: "2023-11-12T12:34:56.789Z"
+- id: 57
+  letype: "MB.Axor"
+  created_at: "2023-11-12T12:34:56.789Z"
+  updated_at: "2023-11-12T12:34:56.789Z"
+- id: 58
+  letype: "MB.Axor / Atego"
+  created_at: "2023-11-12T12:34:56.789Z"
+  updated_at: "2023-11-12T12:34:56.789Z"
+- id: 59
+  letype: "MB.Axor 1840 / OM 457 LA"
+  created_at: "2023-11-12T12:34:56.789Z"
+  updated_at: "2023-11-12T12:34:56.789Z"
+- id: 60
+  letype: "MB.Axor 1840 / Scania P 4"
+  created_at: "2023-11-12T12:34:56.789Z"
+  updated_at: "2023-11-12T12:34:56.789Z"
+- id: 61
+  letype: "MB.Axor 1843"
+  created_at: "2023-11-12T12:34:56.789Z"
+  updated_at: "2023-11-12T12:34:56.789Z"
+- id: 62
+  letype: "MB.Axor 1843 Euro 4-5 / Actros 1857"
+  created_at: "2023-11-12T12:34:56.789Z"
+  updated_at: "2023-11-12T12:34:56.789Z"
+- id: 63
+  letype: "MB.Axor Euro 4"
+  created_at: "2023-11-12T12:34:56.789Z"
+  updated_at: "2023-11-12T12:34:56.789Z"
+- id: 64
+  letype: "MB.Axor MP 2"
+  created_at: "2023-11-12T12:34:56.789Z"
+  updated_at: "2023-11-12T12:34:56.789Z"
+- id: 65
+  letype: "MB.Axor OM 457 / MB.Actros"
+  created_at: "2023-11-12T12:34:56.789Z"
+  updated_at: "2023-11-12T12:34:56.789Z"
+- id: 66
+  letype: "MB.Axor Phase 2 / MB.Axor 1844 Euro 5"
+  created_at: "2023-11-12T12:34:56.789Z"
+  updated_at: "2023-11-12T12:34:56.789Z"
+- id: 67
+  letype: "Mercedes"
+  created_at: "2023-11-12T12:34:56.789Z"
+  updated_at: "2023-11-12T12:34:56.789Z"
+- id: 68
+  letype: "Nissan Atleon 56.15 moteur ZD 30"
+  created_at: "2023-11-12T12:34:56.789Z"
+  updated_at: "2023-11-12T12:34:56.789Z"
+- id: 69
+  letype: "Nissan UD CWB 450"
+  created_at: "2023-11-12T12:34:56.789Z"
+  updated_at: "2023-11-12T12:34:56.789Z"
+- id: 70
+  letype: "OM 421 / 422 / 442"
+  created_at: "2023-11-12T12:34:56.789Z"
+  updated_at: "2023-11-12T12:34:56.789Z"
+- id: 71
+  letype: "OM 421 / 422 / 442 / MB.2544"
+  created_at: "2023-11-12T12:34:56.789Z"
+  updated_at: "2023-11-12T12:34:56.789Z"
+- id: 72
+  letype: "OM 501 LA / MB.Actros 1835"
+  created_at: "2023-11-12T12:34:56.789Z"
+  updated_at: "2023-11-12T12:34:56.789Z"
+- id: 73
+  letype: "Pelle CAT 320 B / RVI Kerax / Magnum / M 230 Ti / Volvo FL6 / Premium 370 DCI"
+  created_at: "2023-11-12T12:34:56.789Z"
+  updated_at: "2023-11-12T12:34:56.789Z"
+- id: 74
+  letype: "RVI CBH 280"
+  created_at: "2023-11-12T12:34:56.789Z"
+  updated_at: "2023-11-12T12:34:56.789Z"
+- id: 75
+  letype: "RVI CBH 320"
+  created_at: "2023-11-12T12:34:56.789Z"
+  updated_at: "2023-11-12T12:34:56.789Z"
+- id: 76
+  letype: "RVI G / DAF F 95-85 / XF 95 Euro 2"
+  created_at: "2023-11-12T12:34:56.789Z"
+  updated_at: "2023-11-12T12:34:56.789Z"
+- id: 77
+  letype: "RVI G 260 / G 230 Manager"
+  created_at: "2023-11-12T12:34:56.789Z"
+  updated_at: "2023-11-12T12:34:56.789Z"
+- id: 78
+  letype: "RVI G 340 / R 385"
+  created_at: "2023-11-12T12:34:56.789Z"
+  updated_at: "2023-11-12T12:34:56.789Z"
+- id: 79
+  letype: "RVI Kerax 270"
+  created_at: "2023-11-12T12:34:56.789Z"
+  updated_at: "2023-11-12T12:34:56.789Z"
+- id: 80
+  letype: "RVI Kerax 350"
+  created_at: "2023-11-12T12:34:56.789Z"
+  updated_at: "2023-11-12T12:34:56.789Z"
+- id: 81
+  letype: "RVI Kerax DXI 460"
+  created_at: "2023-11-12T12:34:56.789Z"
+  updated_at: "2023-11-12T12:34:56.789Z"
+- id: 82
+  letype: "RVI M 230 Ti / S 180 / G 230 Ti / Midlium 180 DCI / Premium 270"
+  created_at: "2023-11-12T12:34:56.789Z"
+  updated_at: "2023-11-12T12:34:56.789Z"
+- id: 83
+  letype: "RVI Magnum 440-480 DXI 12 / Kerax 370 DXI-450 DXI / Volvo FH 12 380-500 / FH 16 540-660"
+  created_at: "2023-11-12T12:34:56.789Z"
+  updated_at: "2023-11-12T12:34:56.789Z"
+- id: 84
+  letype: "RVI Midlium DXI 5 / Premium DXI 7"
+  created_at: "2023-11-12T12:34:56.789Z"
+  updated_at: "2023-11-12T12:34:56.789Z"
+- id: 85
+  letype: "RVI Midlium NM"
+  created_at: "2023-11-12T12:34:56.789Z"
+  updated_at: "2023-11-12T12:34:56.789Z"
+- id: 86
+  letype: "RVI Premim 440 DXI"
+  created_at: "2023-11-12T12:34:56.789Z"
+  updated_at: "2023-11-12T12:34:56.789Z"
+- id: 87
+  letype: "RVI Premium / Kerax 370 DCI"
+  created_at: "2023-11-12T12:34:56.789Z"
+  updated_at: "2023-11-12T12:34:56.789Z"
+- id: 88
+  letype: "RVI Premium / Man TGA"
+  created_at: "2023-11-12T12:34:56.789Z"
+  updated_at: "2023-11-12T12:34:56.789Z"
+- id: 89
+  letype: "RVI Premium 210"
+  created_at: "2023-11-12T12:34:56.789Z"
+  updated_at: "2023-11-12T12:34:56.789Z"
+- id: 90
+  letype: "RVI Premium 250"
+  created_at: "2023-11-12T12:34:56.789Z"
+  updated_at: "2023-11-12T12:34:56.789Z"
+- id: 91
+  letype: "RVI Premium 420 DCI"
+  created_at: "2023-11-12T12:34:56.789Z"
+  updated_at: "2023-11-12T12:34:56.789Z"
+- id: 92
+  letype: "RVI Premium 420 DCI / Man  / DAF XF"
+  created_at: "2023-11-12T12:34:56.789Z"
+  updated_at: "2023-11-12T12:34:56.789Z"
+- id: 93
+  letype: "RVI Premium 440 DXI"
+  created_at: "2023-11-12T12:34:56.789Z"
+  updated_at: "2023-11-12T12:34:56.789Z"
+- id: 94
+  letype: "RVI Premium DXI"
+  created_at: "2023-11-12T12:34:56.789Z"
+  updated_at: "2023-11-12T12:34:56.789Z"
+- id: 95
+  letype: "RVI Premium DXI 460"
+  created_at: "2023-11-12T12:34:56.789Z"
+  updated_at: "2023-11-12T12:34:56.789Z"
+- id: 96
+  letype: "RVI R 340-385 / Magnum AE 385"
+  created_at: "2023-11-12T12:34:56.789Z"
+  updated_at: "2023-11-12T12:34:56.789Z"
+- id: 97
+  letype: "Sakman F 3000 / JAC Mac / DAF F 1700 / DAF CF 65 180-290 / LF 45 130-300 / DAF LF 55 160-300 / Iveco Eurocargo / Iveco Stralis Gico / Iveco Cargo 1-2-3 / DAF CF 65 / LF 45-55 / CAT Bobcat E 60-80 / Komatsu PC 160-8 / PC 190-8 / PC 210-240 LC8K"
+  created_at: "2023-11-12T12:34:56.789Z"
+  updated_at: "2023-11-12T12:34:56.789Z"
+- id: 98
+  letype: "SINOTRUCK /CNHTC HOWO moteur WD615 HP 217-405"
+  created_at: "2023-11-12T12:34:56.789Z"
+  updated_at: "2023-11-12T12:34:56.789Z"
+- id: 99
+  letype: "STRALIS, TRAKKER, EUROCARGO / TGA, TGS, TGX / ACTROS (MP4), ATEGO, AXOR / P,G,R,T , SERIES-4"
+  created_at: "2023-11-12T12:34:56.789Z"
+  updated_at: "2023-11-12T12:34:56.789Z"
+- id: 100
+  letype: "Tadano Salone / JCB / Caterpillar 3054 / Case / Pelle 307"
+  created_at: "2023-11-12T12:34:56.789Z"
+  updated_at: "2023-11-12T12:34:56.789Z"
+- id: 101
+  letype: "Volvo F 12"
+  created_at: "2023-11-12T12:34:56.789Z"
+  updated_at: "2023-11-12T12:34:56.789Z"
+- id: 102
+  letype: "Volvo FH 13 440 moteur D13A 440 / Magnum DXI 13 / Kerax DXI 11-13 / Volvo FH 16 / FM 9 / Premium DXI / Volvo FH 16 500 Euro 5"
+  created_at: "2023-11-12T12:34:56.789Z"
+  updated_at: "2023-11-12T12:34:56.789Z"
+

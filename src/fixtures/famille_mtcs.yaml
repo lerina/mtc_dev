@@ -1,0 +1,2049 @@
+---
+- id: 1
+  code: 37104
+  designation: Coussin d'air suspension Ar complet 43 ( Sabo )
+  pix: "/static/mtc/mypix.png"
+  letype_id: 43
+  marque_id: 1
+  prix_ttc: 567000
+  famille_id: 1
+  depot_id: 1
+  centre_id: 1
+  reference: "SA 520093C"
+  oem: Contitech 4390 NP 01 - Mercedes A 9517950500 - Mercedes A 9518950500 - Mercedes A 9423200121
+  marque_oem_id: 14
+  keywords: 
+  created_at: "2023-11-12T12:34:56.789Z"
+  updated_at: "2023-11-12T12:34:56.789Z"
+- id: 2
+  code: 27779
+  designation: Coussin d'air suspension Ar essieu relevable semi assemblé MB.Actros 1840  ( Sabo )
+  pix: "/static/mtc/mypix.png"
+  letype_id: 45
+  marque_id: 1
+  prix_ttc: 501600
+  famille_id: 1
+  depot_id: 1
+  centre_id: 1
+  reference: "SA 520 126"
+  oem: Contitech 4838 N - Mercedes A 9463280011
+  marque_oem_id: 14
+  keywords: 
+  created_at: "2023-11-12T12:34:56.789Z"
+  updated_at: "2023-11-12T12:34:56.789Z"
+- id: 3
+  code: 34233
+  designation: Coussin d'air suspension Ar essieu relevable 42  ( Sabo )
+  pix: "/static/mtc/mypix.png"
+  letype_id: 42 
+  marque_id: 1
+  prix_ttc: 793200
+  famille_id: 1
+  depot_id: 1
+  centre_id: 1
+  reference: "SA 520221 C"
+  oem: Mercedes A 9463200321 - Sampa  SP 554737-K21 - Contitech  4737NP01
+  marque_oem_id: 14
+  keywords: 
+  created_at: "2023-11-12T12:34:56.789Z"
+  updated_at: "2023-11-12T12:34:56.789Z"
+- id: 4
+  code: 34237
+  designation: Coussin d'air suspension Ar complet MB.Axor MP 2 01 Trous avec écroue ( Sabo )
+  pix: "/static/mtc/mypix.png"
+  letype_id: 64
+  marque_id: 1
+  prix_ttc: 859200
+  famille_id: 1
+  depot_id: 1
+  centre_id: 1
+  reference: "SA 520282C"
+  oem: Sampa SP 554187-K - Airtech 34187 21 K - Contitech 4187NP21 - Mercedes A 9423202621
+  marque_oem_id: 14
+  keywords: 
+  created_at: "2023-11-12T12:34:56.789Z"
+  updated_at: "2023-11-12T12:34:56.789Z"
+- id: 5
+  code: 35711
+  designation: Coussin d'air suspension Ar complet 01 Trous MB.Axor ( Sabo )
+  pix: "/static/mtc/mypix.png"
+  letype_id: 57
+  marque_id: 1
+  prix_ttc: 760800
+  famille_id: 1
+  depot_id: 1
+  centre_id: 1
+  reference: "SA 520341C"
+  oem: Mercedes A 9423202221 - Sampa SP554183-K
+  marque_oem_id: 14
+  keywords: 
+  created_at: "2023-11-12T12:34:56.789Z"
+  updated_at: "2023-11-12T12:34:56.789Z"
+- id: 6
+  code: 35712
+  designation: Coussin d'air suspension Av complet MB.Actros MP 4 ( Sabo )
+  pix: "/static/mtc/mypix.png"
+  letype_id: 51
+  marque_id: 1
+  prix_ttc: 943200
+  famille_id: 1
+  depot_id: 1
+  centre_id: 1
+  reference: "SA 520399CP"
+  oem: Mercedes A 9603200057 - Contitech 6122N - Sampa SP 556122-KP12
+  marque_oem_id: 14
+  keywords: 
+  created_at: "2023-11-12T12:34:56.789Z"
+  updated_at: "2023-11-12T12:34:56.789Z"
+- id: 7
+  code: 35713
+  designation: Coussin d'air suspension Ar MB.Actros MP 4 ( Sabo )
+  pix: "/static/mtc/mypix.png"
+  letype_id: 51
+  marque_id: 1
+  prix_ttc: 1026000
+  famille_id: 1
+  depot_id: 1
+  centre_id: 1
+  reference: "SA 520484C"
+  oem: Mercedes A 9603203457  - Contitech 6131N - Sampa SP 556131-K 
+  marque_oem_id: 14
+  keywords: 
+  created_at: "2023-11-12T12:34:56.789Z"
+  updated_at: "2023-11-12T12:34:56.789Z"
+- id: 8
+  code: 100481
+  designation: Amortisseur suspension Av Nissan UD CWB 450
+  pix: "/static/mtc/mypix.png"
+  letype_id: 69
+  marque_id: 5
+  prix_ttc: 409200
+  famille_id: 1
+  depot_id: 1
+  centre_id: 1
+  reference: ""
+  oem: 
+  marque_oem_id: 4
+  keywords: 
+  created_at: "2023-11-12T12:34:56.789Z"
+  updated_at: "2023-11-12T12:34:56.789Z"
+- id: 9
+  code: 17548
+  designation: Coussinet bielle Std RVI M 230 Ti / S 180 / G 230 Ti ( Mahle ) Aelite 6-4240 CP
+  pix: "/static/mtc/mypix.png"
+  letype_id: 82
+  marque_id: 2
+  prix_ttc: 93600
+  famille_id: 2
+  depot_id: 1
+  centre_id: 1
+  reference: "209 PL 20204 000"
+  oem: Perfect Circle VPR 92589 STD -  Renault 5001847497 - Renault 5000676471
+  marque_oem_id: 10
+  keywords: 
+  created_at: "2023-11-12T12:34:56.789Z"
+  updated_at: "2023-11-12T12:34:56.789Z"
+- id: 10
+  code: 17504
+  designation: Coussinet bielle Std RVI G 260 / G 230 Manager ( Mahle ) ø 72 ergot GM 
+  pix: "/static/mtc/mypix.png"
+  letype_id: 77
+  marque_id: 2
+  prix_ttc: 52800
+  famille_id: 2
+  depot_id: 1
+  centre_id: 1
+  reference: "209 PL 20642 000"
+  oem: Vandervell VPR92593 STD - Renault 5001847466 - Renault 5001847973
+  marque_oem_id: 10
+  keywords: 
+  created_at: "2023-11-12T12:34:56.789Z"
+  updated_at: "2023-11-12T12:34:56.789Z"
+- id: 11
+  code: 21317
+  designation: Coussinet bielle Std GM RVI R 340-385 / Magnum AE 385 ( Mahle )
+  pix: "/static/mtc/mypix.png"
+  letype_id: 96
+  marque_id: 2
+  prix_ttc: 128400
+  famille_id: 2
+  depot_id: 1
+  centre_id: 1
+  reference: "209PL 20644 000"
+  oem: Vandervell VPR 92594 STD - Renault 5001847956 - Renault  5000578592 - Federal Mogul FM 530305
+  marque_oem_id: 10
+  keywords: 
+  created_at: "2023-11-12T12:34:56.789Z"
+  updated_at: "2023-11-12T12:34:56.789Z"
+- id: 12
+  code: 22583
+  designation: Coussinet bielle Std OM 501 LA / MB.Actros 1835( Glyco )
+  pix: "/static/mtc/mypix.png"
+  letype_id: 72
+  marque_id: 1
+  prix_ttc: 374400
+  famille_id: 2
+  depot_id: 1
+  centre_id: 1
+  reference: "71-3835 STD"
+  oem: Aelite AEB 110266 
+  marque_oem_id: 8
+  keywords: 
+  created_at: "2023-11-12T12:34:56.789Z"
+  updated_at: "2023-11-12T12:34:56.789Z"
+- id: 13
+  code: 12942
+  designation: Coussinet bielle Std OM 421 / 422 / 442 / MB.2544 ( Glyco )
+  pix: "/static/mtc/mypix.png"
+  letype_id: 71 
+  marque_id: 1
+  prix_ttc: 52800
+  famille_id: 2
+  depot_id: 1
+  centre_id: 1
+  reference: "71-3009"
+  oem: 
+  marque_oem_id: 8
+  keywords: 
+  created_at: "2023-11-12T12:34:56.789Z"
+  updated_at: "2023-11-12T12:34:56.789Z"
+- id: 14
+  code: 17666
+  designation: Coussinet bielle Std alésage 130.17 * 150.3 Volvo F 12 ( Mahle )
+  pix: "/static/mtc/mypix.png"
+  letype_id: 101
+  marque_id: 3
+  prix_ttc: 414000
+  famille_id: 2
+  depot_id: 1
+  centre_id: 1
+  reference: "037 PS 10588 000"
+  oem: Vandervell VPR 91902 STD
+  marque_oem_id: 18
+  keywords: 
+  created_at: "2023-11-12T12:34:56.789Z"
+  updated_at: "2023-11-12T12:34:56.789Z"
+- id: 15
+  code: 17622
+  designation: Coussinet bielle Std OM 421 / 422 / 442 ( Mahle )
+  pix: "/static/mtc/mypix.png"
+  letype_id: 70
+  marque_id: 1
+  prix_ttc: 81000
+  famille_id: 2
+  depot_id: 1
+  centre_id: 1
+  reference: "001 PL 10264 000"
+  oem: Vandervell VPR 92181 STD 
+  marque_oem_id: 10
+  keywords: 
+  created_at: "2023-11-12T12:34:56.789Z"
+  updated_at: "2023-11-12T12:34:56.789Z"
+- id: 16
+  code: 38469
+  designation: Pompe à eau simple trou MB.Axor 1828 ( Febi )
+  pix: "/static/mtc/mypix.png"
+  letype_id: 55
+  marque_id: 1
+  prix_ttc: 687600
+  famille_id: 2
+  depot_id: 1
+  centre_id: 1
+  reference: "28329"
+  oem: Mercedes A 9042004301 - Sampa 0110.0012 - Sampa 202.499 - Merceds A 9042002601 - Mercedes A 9042004901 - Mercedes A 9042000401
+  marque_oem_id: 6
+  keywords: 
+  created_at: "2023-11-12T12:34:56.789Z"
+  updated_at: "2023-11-12T12:34:56.789Z"
+- id: 17
+  code: 43721
+  designation: Pompe à eau Volvo FH 16 500 Euro 5 ( Febi )
+  pix: "/static/mtc/mypix.png"
+  letype_id: 102
+  marque_id: 3
+  prix_ttc: 30451
+  famille_id: 2
+  depot_id: 1
+  centre_id: 1
+  reference: "30451"
+  oem: Volvo 20744939 - Renault 7485000763 - Febi 30451 - KTK 16344
+  marque_oem_id: 6
+  keywords: 
+  created_at: "2023-11-12T12:34:56.789Z"
+  updated_at: "2023-11-12T12:34:56.789Z"
+- id: 18
+  code: 22560
+  designation: Pompe à eau RVI Premium 420 DCI ( Febi )
+  pix: "/static/mtc/mypix.png"
+  letype_id: 91
+  marque_id: 2
+  prix_ttc: 1142400
+  famille_id: 2
+  depot_id: 1
+  centre_id: 1
+  reference: "31568"
+  oem: Sampa 078.121-01 - Renault 5001857427 - Mahle CP 481000S - Renault 5001858484 - Behr 8MP376 808-454  ­376808454  ­70821808
+  marque_oem_id: 6
+  keywords: 
+  created_at: "2023-11-12T12:34:56.789Z"
+  updated_at: "2023-11-12T12:34:56.789Z"
+- id: 19
+  code: 37608
+  designation: Pompe à eau DAF XF 105 480 / CF 85 Euro 4 ( Febi )
+  pix: "/static/mtc/mypix.png"
+  letype_id: 20
+  marque_id: 6
+  prix_ttc: 1346400
+  famille_id: 2
+  depot_id: 1
+  centre_id: 1
+  reference: "31737"
+  oem: Sampa 051.264-01 - DAF 1828162
+  marque_oem_id: 6
+  keywords: 
+  created_at: "2023-11-12T12:34:56.789Z"
+  updated_at: "2023-11-12T12:34:56.789Z"
+- id: 20
+  code: 37895
+  designation: Pompe à eau MB.Atego Phase 2 ( Febi )
+  pix: "/static/mtc/mypix.png"
+  letype_id: 56
+  marque_id: 1
+  prix_ttc: 1186800
+  famille_id: 2
+  depot_id: 1
+  centre_id: 1
+  reference: "31781"
+  oem: Sampa  204.377 - Mercedes A 9062006401 - Mercedes A 9062004801 - Mercedes A 9062004201 -Mercedes A 9062003201 - Mercedes A 9062006501
+  marque_oem_id: 6
+  keywords: 
+  created_at: "2023-11-12T12:34:56.789Z"
+  updated_at: "2023-11-12T12:34:56.789Z"
+- id: 21
+  code: 11580
+  designation: Pompe à eau DAF F 95  / F 95 XF Euro 2 / XF 95 430 Phase 1  ( Febi )
+  pix: "/static/mtc/mypix.png"
+  letype_id: 15
+  marque_id: 6
+  prix_ttc: 1150800
+  famille_id: 2
+  depot_id: 1
+  centre_id: 1
+  reference: "33172"
+  oem: DAF 0 683225 - Sampa 051.260-01
+  marque_oem_id: 6
+  keywords: 
+  created_at: "2023-11-12T12:34:56.789Z"
+  updated_at: "2023-11-12T12:34:56.789Z"
+- id: 22
+  code: 11906
+  designation: Pompe à eau DAF CF 85 / XF 95 Euro 3 Phase 2 ( Febi )
+  pix: "/static/mtc/mypix.png"
+  letype_id: 11
+  marque_id: 6
+  prix_ttc: 1212000
+  famille_id: 2
+  depot_id: 1
+  centre_id: 1
+  reference: "34116"
+  oem: DAF 0683579 - Sampa 051.261-01
+  marque_oem_id: 6
+  keywords: 
+  created_at: "2023-11-12T12:34:56.789Z"
+  updated_at: "2023-11-12T12:34:56.789Z"
+- id: 23
+  code: 37047
+  designation: Pompe à eau MB.917 ( Febi  )
+  pix: "/static/mtc/mypix.png"
+  letype_id: 39
+  marque_id: 1
+  prix_ttc: 1117200
+  famille_id: 2
+  depot_id: 1
+  centre_id: 1
+  reference: "35444"
+  oem: Sampa 208.272  Mercedes A 3662006801 - Mercedes A3662006701
+  marque_oem_id: 6
+  keywords: 
+  created_at: "2023-11-12T12:34:56.789Z"
+  updated_at: "2023-11-12T12:34:56.789Z"
+- id: 24
+  code: 38111
+  designation: Pompe à eau DAF F 45 / 55 ( Febi )
+  pix: "/static/mtc/mypix.png"
+  letype_id: 13
+  marque_id: 6
+  prix_ttc: 996000
+  famille_id: 2
+  depot_id: 1
+  centre_id: 1
+  reference: "38752"
+  oem: Sampa 051.262 - DAF CBU2396 - DAF CBU2148 - DAF 1399689
+  marque_oem_id: 6
+  keywords: 
+  created_at: "2023-11-12T12:34:56.789Z"
+  updated_at: "2023-11-12T12:34:56.789Z"
+- id: 25
+  code: 36298
+  designation: Pompe à eau MB.Axor 1844 Euro 5 ( Mahle )
+  pix: "/static/mtc/mypix.png"
+  letype_id: 66
+  marque_id: 1
+  prix_ttc: 680400
+  famille_id: 2
+  depot_id: 1
+  centre_id: 1
+  reference: "70821844 / CP 517000S"
+  oem: Hella  8MP376809014 - Sampa 203.058-01 - Mercedes A 4572002301 - Mercedes A 4572000801 - Mercedes A 4572001901 replace Mercedes A 4572002901 
+  marque_oem_id: 1
+  keywords: 
+  created_at: "2023-11-12T12:34:56.789Z"
+  updated_at: "2023-11-12T12:34:56.789Z"
+- id: 26
+  code: 36654
+  designation: Pompe à eau avec ralentisseur MB.Axor Euro 4 ( Mahle )
+  pix: "/static/mtc/mypix.png"
+  letype_id: 63
+  marque_id: 1
+  prix_ttc: 1088400
+  famille_id: 2
+  depot_id: 1
+  centre_id: 1
+  reference: "70821845 / CP518000S"
+  oem: DT 4.62589 - Behr 8MP376809024 - Sampa 203.007-01 - Mercedes A 4572002401
+  marque_oem_id: 1
+  keywords: 
+  created_at: "2023-11-12T12:34:56.789Z"
+  updated_at: "2023-11-12T12:34:56.789Z"
+- id: 27
+  code: 38459
+  designation: Pompe à eau RVI Midlium DXI 5 ( Mahle )
+  pix: "/static/mtc/mypix.png"
+  letype_id: 84
+  marque_id: 2
+  prix_ttc: 1762800
+  famille_id: 2
+  depot_id: 1
+  centre_id: 1
+  reference: "70821865 / CP 538 000S"
+  oem: Hella 8MP 376 809-224  - Sampa 078.378 - Renault 7420834409
+  marque_oem_id: 1
+  keywords: 
+  created_at: "2023-11-12T12:34:56.789Z"
+  updated_at: "2023-11-12T12:34:56.789Z"
+- id: 28
+  code: 28675
+  designation: Radiateur d'eau RVI Premim 440 DXI ( 1110 * 750 * 80 ) Valeo
+  pix: "/static/mtc/mypix.png"
+  letype_id: 86
+  marque_id: 2
+  prix_ttc: 3986400
+  famille_id: 2
+  depot_id: 1
+  centre_id: 1
+  reference: "733543"
+  oem: Renault 5010514415 - Renault 5010514416 - Renault 7420775792 - Renault 5001867210 - Renault 7484201975
+  marque_oem_id: 17
+  keywords: 
+  created_at: "2023-11-12T12:34:56.789Z"
+  updated_at: "2023-11-12T12:34:56.789Z"
+- id: 29
+  code: 30941
+  designation: Radiateur d'eau DAF XF 105 460 / CF 85 / XF 95 ( 1008 * 805 * 70 ) Valeo / PM 
+  pix: "/static/mtc/mypix.png"
+  letype_id: 19
+  marque_id: 6
+  prix_ttc: 3927600
+  famille_id: 2
+  depot_id: 1
+  centre_id: 1
+  reference: "733544"
+  oem: Hella 8MK376733711 - DA 1674136 - DAF 1692332 - DAF 1861737 - DAF 1739550 - DAF 1856628
+  marque_oem_id: 17
+  keywords: 
+  created_at: "2023-11-12T12:34:56.789Z"
+  updated_at: "2023-11-12T12:34:56.789Z"
+- id: 30
+  code: 11598
+  designation: Radiateur d'eau MB.Axor 1840 ( 990 * 705 * 900 ) Valeo
+  pix: "/static/mtc/mypix.png"
+  letype_id: 60
+  marque_id: 1
+  prix_ttc: 3267600
+  famille_id: 2
+  depot_id: 1
+  centre_id: 1
+  reference: "733545"
+  oem: Mercedes A 9405000703 - Behr 8MK376722021
+  marque_oem_id: 17
+  keywords: 
+  created_at: "2023-11-12T12:34:56.789Z"
+  updated_at: "2023-11-12T12:34:56.789Z"
+- id: 31
+  code: 100581
+  designation: Elément pompe gasoil Nissan UD CWB 450
+  pix: "/static/mtc/mypix.png"
+  letype_id: 69
+  marque_id: 5
+  prix_ttc: 708000
+  famille_id: 2
+  depot_id: 1
+  centre_id: 1
+  reference: ""
+  oem: 
+  marque_oem_id: 12
+  keywords: 
+  created_at: "2023-11-12T12:34:56.789Z"
+  updated_at: "2023-11-12T12:34:56.789Z"
+- id: 32
+  code: 100582
+  designation: Soupape de refoulement Nissan UD CWB 450
+  pix: "/static/mtc/mypix.png"
+  letype_id: 69
+  marque_id: 5
+  prix_ttc: 303600
+  famille_id: 2
+  depot_id: 1
+  centre_id: 1
+  reference: ""
+  oem: 
+  marque_oem_id: 12
+  keywords: 
+  created_at: "2023-11-12T12:34:56.789Z"
+  updated_at: "2023-11-12T12:34:56.789Z"
+- id: 33
+  code: 100583
+  designation: Pochette pompe injection Avant Nissan UD CWB 450
+  pix: "/static/mtc/mypix.png"
+  letype_id: 69
+  marque_id: 5
+  prix_ttc: 100800
+  famille_id: 2
+  depot_id: 1
+  centre_id: 1
+  reference: ""
+  oem: 
+  marque_oem_id: 7
+  keywords: 
+  created_at: "2023-11-12T12:34:56.789Z"
+  updated_at: "2023-11-12T12:34:56.789Z"
+- id: 34
+  code: 100584
+  designation: Pochette pompe régulateur Nissan UD CWB 450
+  pix: "/static/mtc/mypix.png"
+  letype_id: 69
+  marque_id: 5
+  prix_ttc: 222000
+  famille_id: 2
+  depot_id: 1
+  centre_id: 1
+  reference: ""
+  oem: 
+  marque_oem_id: 15
+  keywords: 
+  created_at: "2023-11-12T12:34:56.789Z"
+  updated_at: "2023-11-12T12:34:56.789Z"
+- id: 35
+  code: 100042
+  designation: Pochette moteur complet CAT Pelle 320 BL 
+  pix: "/static/mtc/mypix.png"
+  letype_id: 3 
+  marque_id: 4
+  prix_ttc: 0
+  famille_id: 2
+  depot_id: 1
+  centre_id: 1
+  reference: "3009500"
+  oem: 
+  marque_oem_id: 2
+  keywords: 
+  created_at: "2023-11-12T12:34:56.789Z"
+  updated_at: "2023-11-12T12:34:56.789Z"
+- id: 36
+  code: 100043
+  designation: Coussinet palier central Standart par piéce CAT Pelle 320 BL 
+  pix: "/static/mtc/mypix.png"
+  letype_id: 3 
+  marque_id: 4
+  prix_ttc: 0
+  famille_id: 2
+  depot_id: 1
+  centre_id: 1
+  reference: "2124893"
+  oem: 
+  marque_oem_id: 2
+  keywords: 
+  created_at: "2023-11-12T12:34:56.789Z"
+  updated_at: "2023-11-12T12:34:56.789Z"
+- id: 37
+  code: 100044
+  designation: Coussinet bielle latéral standart par piéce CAT Pelle 320 BL 
+  pix: "/static/mtc/mypix.png"
+  letype_id: 3 
+  marque_id: 4
+  prix_ttc: 0
+  famille_id: 2
+  depot_id: 1
+  centre_id: 1
+  reference: "1011530"
+  oem: 
+  marque_oem_id: 2
+  keywords: 
+  created_at: "2023-11-12T12:34:56.789Z"
+  updated_at: "2023-11-12T12:34:56.789Z"
+- id: 38
+  code: 100045
+  designation: Coussinet bielle latéral standart par piéce CAT Pelle 320 BL 
+  pix: "/static/mtc/mypix.png"
+  letype_id: 3 
+  marque_id: 4
+  prix_ttc: 0
+  famille_id: 2
+  depot_id: 1
+  centre_id: 1
+  reference: "1077708"
+  oem: 
+  marque_oem_id: 2
+  keywords: 
+  created_at: "2023-11-12T12:34:56.789Z"
+  updated_at: "2023-11-12T12:34:56.789Z"
+- id: 39
+  code: 100046
+  designation: Coussinet bielle Standart par piéce CAT Pelle 320 BL 
+  pix: "/static/mtc/mypix.png"
+  letype_id: 3 
+  marque_id: 4
+  prix_ttc: 0
+  famille_id: 2
+  depot_id: 1
+  centre_id: 1
+  reference: "2246638"
+  oem: 
+  marque_oem_id: 2
+  keywords: 
+  created_at: "2023-11-12T12:34:56.789Z"
+  updated_at: "2023-11-12T12:34:56.789Z"
+- id: 40
+  code: 29602
+  designation: Plaquette de frein ressorts demi complet MB.Axor Euro 3 ( Valeo )
+  pix: "/static/mtc/mypix.png"
+  letype_id: 99
+  marque_id: 13
+  prix_ttc: 429600
+  famille_id: 4
+  depot_id: 1
+  centre_id: 1
+  reference: "882200"
+  oem: WVA 29 087 - Mercedes A 0024204920 - Febi 16665 - Febi 174312 - Mercedes A 0044202220 - DT 4.90930
+  marque_oem_id: 17
+  keywords: 
+  created_at: "2023-11-12T12:34:56.789Z"
+  updated_at: "2023-11-12T12:34:56.789Z"
+- id: 41
+  code: 28678
+  designation: Plaquette de frein ressorts complet MB.Actros 1857 / Man F 2000 / DAF CF 430 / SMB / SAF / TGA / ROR ( Provia )
+  pix: "/static/mtc/mypix.png"
+  letype_id: 50
+  marque_id: 1
+  prix_ttc: 360000
+  famille_id: 4
+  depot_id: 1
+  centre_id: 1
+  reference: "29 108.30 / 340910702"
+  oem: DAF 1878030
+  marque_oem_id: 13
+  keywords: 
+  created_at: "2023-11-12T12:34:56.789Z"
+  updated_at: "2023-11-12T12:34:56.789Z"
+- id: 42
+  code: 22678
+  designation: Plaquette de frein ressorts complet SN7 Old MB.Actros 1857 / Man F 2000 / DAF CF 430 / SMB / SAF / TGA / ROR ( Textar ) T3050
+  pix: "/static/mtc/mypix.png"
+  letype_id: 50
+  marque_id: 1
+  prix_ttc: 674400
+  famille_id: 4
+  depot_id: 1
+  centre_id: 1
+  reference: "2927801"
+  oem: WMA 29 108.30  - DAF 1797053 - Mercedes A 0064201020 - Kawe 88081 -  29202300 - Valeo 882200
+  marque_oem_id: 16
+  keywords: 
+  created_at: "2023-11-12T12:34:56.789Z"
+  updated_at: "2023-11-12T12:34:56.789Z"
+- id: 43
+  code: 12927
+  designation: Robinet à main RVI CBH 280 ( Wabco )
+  pix: "/static/mtc/mypix.png"
+  letype_id: 74
+  marque_id: 2
+  prix_ttc: 1858800
+  famille_id: 4
+  depot_id: 1
+  centre_id: 1
+  reference: "723 539 000 8"
+  oem: Renault 5000439709 
+  marque_oem_id: 19
+  keywords: 
+  created_at: "2023-11-12T12:34:56.789Z"
+  updated_at: "2023-11-12T12:34:56.789Z"
+- id: 44
+  code: 17458
+  designation: Robinet à main MB.Actros 1843 ( Knoor  )
+  pix: "/static/mtc/mypix.png"
+  letype_id: 47
+  marque_id: 1
+  prix_ttc: 1159200
+  famille_id: 4
+  depot_id: 1
+  centre_id: 1
+  reference: "K 038802N00"
+  oem: Mercedes  A 0034306661 - Knoor DF M21A replace Knoor DPM 21AK
+  marque_oem_id: 9
+  keywords: 
+  created_at: "2023-11-12T12:34:56.789Z"
+  updated_at: "2023-11-12T12:34:56.789Z"
+- id: 45
+  code: 18561
+  designation: Robinet à main MB.Actros 1848 ( Knoor )
+  pix: "/static/mtc/mypix.png"
+  letype_id: 49
+  marque_id: 1
+  prix_ttc: 1131600
+  famille_id: 4
+  depot_id: 1
+  centre_id: 1
+  reference: "K 038803N00"
+  oem: Knoor DPM 22AK -Mercedes A 0034307381 - Knoor K038803N50
+  marque_oem_id: 9
+  keywords: 
+  created_at: "2023-11-12T12:34:56.789Z"
+  updated_at: "2023-11-12T12:34:56.789Z"
+- id: 46
+  code: 27611
+  designation: Robinet à main RVI Premium / Kerax 370 DCI ( Knoor )
+  pix: "/static/mtc/mypix.png"
+  letype_id: 87
+  marque_id: 2
+  prix_ttc: 841200
+  famille_id: 4
+  depot_id: 1
+  centre_id: 1
+  reference: "DPM 28 A"
+  oem: Renault 5010422400 
+  marque_oem_id: 9
+  keywords: 
+  created_at: "2023-11-12T12:34:56.789Z"
+  updated_at: "2023-11-12T12:34:56.789Z"
+- id: 47
+  code: 24140
+  designation: Robinet à main RVI Kerax 350 ( knoor )
+  pix: "/static/mtc/mypix.png"
+  letype_id: 80
+  marque_id: 2
+  prix_ttc: 1014000
+  famille_id: 4
+  depot_id: 1
+  centre_id: 1
+  reference: "K219307N00"
+  oem: Knoor DPM 29 A - Renault 5010422401 
+  marque_oem_id: 9
+  keywords: 
+  created_at: "2023-11-12T12:34:56.789Z"
+  updated_at: "2023-11-12T12:34:56.789Z"
+- id: 48
+  code: 16122
+  designation: Robinet à main RVI G 340 / R 385 ( Knoor )
+  pix: "/static/mtc/mypix.png"
+  letype_id: 78
+  marque_id: 1
+  prix_ttc: 1496400
+  famille_id: 4
+  depot_id: 1
+  centre_id: 1
+  reference: "DPM 60AA"
+  oem: Wabco 9617231110 - Renault 5010422399 
+  marque_oem_id: 9
+  keywords: 
+  created_at: "2023-11-12T12:34:56.789Z"
+  updated_at: "2023-11-12T12:34:56.789Z"
+- id: 49
+  code: 33478
+  designation: Robinet à main MB.Axor 1843 Euro 4-5 / Actros 1857 ( Knoor )
+  pix: "/static/mtc/mypix.png"
+  letype_id: 62
+  marque_id: 1
+  prix_ttc: 793200
+  famille_id: 4
+  depot_id: 1
+  centre_id: 1
+  reference: "K038808N50"
+  oem: Knoor DPM 66AK - Mercerdes A 0004200284 - Knoor K038808N50 - Knoor DPM 70A replace DPM 66AK
+  marque_oem_id: 9
+  keywords: 
+  created_at: "2023-11-12T12:34:56.789Z"
+  updated_at: "2023-11-12T12:34:56.789Z"
+- id: 50
+  code: 37095
+  designation: Robinet à main MB.Atego ( Knoor )
+  pix: "/static/mtc/mypix.png"
+  letype_id: 52
+  marque_id: 1
+  prix_ttc: 766800
+  famille_id: 4
+  depot_id: 1
+  centre_id: 1
+  reference: "K038809N50"
+  oem: Knoor DPM 67 A - Knoor A 0004200184  - Knoor K038809N50
+  marque_oem_id: 9
+  keywords: 
+  created_at: "2023-11-12T12:34:56.789Z"
+  updated_at: "2023-11-12T12:34:56.789Z"
+- id: 51
+  code: 15515
+  designation: Filtre huile 43 ( Bosch )
+  pix: "/static/mtc/mypix.png"
+  letype_id: 43
+  marque_id: 1
+  prix_ttc: 103200
+  famille_id: 3
+  depot_id: 1
+  centre_id: 1
+  reference: "1457429128"
+  oem: Mecafilter ELH 4736
+  marque_oem_id: 3
+  keywords: 
+  created_at: "2023-11-12T12:34:56.789Z"
+  updated_at: "2023-11-12T12:34:56.789Z"
+- id: 52
+  code: 40511
+  designation: Filtre huile Compresseur ( Bosch )
+  pix: "/static/mtc/mypix.png"
+  letype_id: 9
+  marque_id: 1
+  prix_ttc: 25200
+  famille_id: 3
+  depot_id: 1
+  centre_id: 1
+  reference: "0 451 103 316"
+  oem: Knecht OC230 - Mannfilter W 811/80 
+  marque_oem_id: 3
+  keywords: 
+  created_at: "2023-11-12T12:34:56.789Z"
+  updated_at: "2023-11-12T12:34:56.789Z"
+- id: 53
+  code: 29859
+  designation: Filtre huile moteur ( ELH 4756 )
+  pix: "/static/mtc/mypix.png"
+  letype_id: 17
+  marque_id: 1
+  prix_ttc: 189600
+  famille_id: 3
+  depot_id: 1
+  centre_id: 1
+  reference: "0 451 104 013"
+  oem: 
+  marque_oem_id: 3
+  keywords: 
+  created_at: "2023-11-12T12:34:56.789Z"
+  updated_at: "2023-11-12T12:34:56.789Z"
+- id: 54
+  code: 10579
+  designation: Filtre huile GM Pelle CAT 320 B / RVI Kerax / Magnum ( Bosch )
+  pix: "/static/mtc/mypix.png"
+  letype_id: 73
+  marque_id: 1
+  prix_ttc: 76800
+  famille_id: 3
+  depot_id: 1
+  centre_id: 1
+  reference: "0 451 403 077 "
+  oem: Caterpillar 1R-0739 - 466 634- 3 - Renault 7421700201 - Baldwin B 76 - Mecafilter ELH 4707 - Renault 5000670700 - Fleetguard LF 3379 - Hifi FilterSO 667
+  marque_oem_id: 3
+  keywords: 
+  created_at: "2023-11-12T12:34:56.789Z"
+  updated_at: "2023-11-12T12:34:56.789Z"
+- id: 55
+  code: 20950
+  designation: Filtre huile
+  pix: "/static/mtc/mypix.png"
+  letype_id: 14
+  marque_id: 1
+  prix_ttc: 79200
+  famille_id: 3
+  depot_id: 1
+  centre_id: 1
+  reference: "0 451 403 208"
+  oem: 
+  marque_oem_id: 3
+  keywords: 
+  created_at: "2023-11-12T12:34:56.789Z"
+  updated_at: "2023-11-12T12:34:56.789Z"
+- id: 56
+  code: 34023
+  designation: Filtre huile MB.Atego 1 ( 712-1533 ) Bosch
+  pix: "/static/mtc/mypix.png"
+  letype_id: 53
+  marque_id: 1
+  prix_ttc: 91800
+  famille_id: 3
+  depot_id: 1
+  centre_id: 1
+  reference: "F026407040"
+  oem: Mercedes A 0001801609 - Knecht OX161D - Mannfilter HU 931/5X - KS 50013629 - Mecafilter ELH 4751 - Fleetguard LF 3827
+  marque_oem_id: 3
+  keywords: 
+  created_at: "2023-11-12T12:34:56.789Z"
+  updated_at: "2023-11-12T12:34:56.789Z"
+- id: 57
+  code: 40486
+  designation: Filtre huile MB.Axor 1840 / OM 457 LA ( Bosch )
+  pix: "/static/mtc/mypix.png"
+  letype_id: 59
+  marque_id: 1
+  prix_ttc: 92400
+  famille_id: 3
+  depot_id: 1
+  centre_id: 1
+  reference: "F026407042"
+  oem: Mannfilter HU 12110X - Bosch 09864B7051 replace F026407042 - Mercedes A 0001802109 - Hengst E175HD129 - LF16046 - ELH4771 - SO7139 - CE1124E - 0021888001 - 0021887901 - CE1124E
+  marque_oem_id: 3
+  keywords: 
+  created_at: "2023-11-12T12:34:56.789Z"
+  updated_at: "2023-11-12T12:34:56.789Z"
+- id: 58
+  code: 38269
+  designation: Filtre hydraulique JCB / Caterpillar 3054 / Case ( Mannfilter )
+  pix: "/static/mtc/mypix.png"
+  letype_id: 100
+  marque_id: 11 
+  prix_ttc: 134400
+  famille_id: 3
+  depot_id: 1
+  centre_id: 1
+  reference: "HD 12114X"
+  oem: Hifi Filter HF 35005 - Caterpillar 200-3549 - Caterpillar 93-5369 
+  marque_oem_id: 11
+  keywords: 
+  created_at: "2023-11-12T12:34:56.789Z"
+  updated_at: "2023-11-12T12:34:56.789Z"
+- id: 59
+  code: 43748
+  designation: Filtre huile hydraulique Caterpillar M 318 D - CAT M 320 - Liehberr  ( Mannfilter )
+  pix: "/static/mtc/mypix.png"
+  letype_id: 6
+  marque_id: 1
+  prix_ttc: 1680000
+  famille_id: 3
+  depot_id: 1
+  centre_id: 1
+  reference: "HD 14003"
+  oem: Caterpillar 137-7249- Hififilter SH52155 - Liebherr 11340502 - Caterpillar 361-7478
+  marque_oem_id: 11
+  keywords: 
+  created_at: "2023-11-12T12:34:56.789Z"
+  updated_at: "2023-11-12T12:34:56.789Z"
+- id: 60
+  code: 33776
+  designation: Filtre hydraulique ( 207-60-71182 )
+  pix: "/static/mtc/mypix.png"
+  letype_id: 27
+  marque_id: 1
+  prix_ttc: 566400
+  famille_id: 3
+  depot_id: 1
+  centre_id: 1
+  reference: "HD 15001"
+  oem: 
+  marque_oem_id: 11
+  keywords: 
+  created_at: "2023-11-12T12:34:56.789Z"
+  updated_at: "2023-11-12T12:34:56.789Z"
+- id: 61
+  code: 43151
+  designation: Filtre huile hydraulique Caterpillar 311 D ( Mannfilter )
+  pix: "/static/mtc/mypix.png"
+  letype_id: 5
+  marque_id: 1
+  prix_ttc: 792000
+  famille_id: 3
+  depot_id: 1
+  centre_id: 1
+  reference: "HD 15006"
+  oem: Hifi Filter SH 66186 - Caterpillar 179-9806 - Caterpillar 216-6676
+  marque_oem_id: 11
+  keywords: 
+  created_at: "2023-11-12T12:34:56.789Z"
+  updated_at: "2023-11-12T12:34:56.789Z"
+- id: 62
+  code: 36087
+  designation: Filtre huile hydraulique ( 903 247 )
+  pix: "/static/mtc/mypix.png"
+  letype_id: 8
+  marque_id: 1
+  prix_ttc: 210000
+  famille_id: 3
+  depot_id: 1
+  centre_id: 1
+  reference: "HD 7002"
+  oem: 
+  marque_oem_id: 11
+  keywords: 
+  created_at: "2023-11-12T12:34:56.789Z"
+  updated_at: "2023-11-12T12:34:56.789Z"
+- id: 63
+  code: 37488
+  designation: Filtre huile convertisseur  hydraulique ( 07063-01142)
+  pix: "/static/mtc/mypix.png"
+  letype_id: 28
+  marque_id: 1
+  prix_ttc: 214800
+  famille_id: 3
+  depot_id: 1
+  centre_id: 1
+  reference: "HD 15117"
+  oem: 
+  marque_oem_id: 11
+  keywords: 
+  created_at: "2023-11-12T12:34:56.789Z"
+  updated_at: "2023-11-12T12:34:56.789Z"
+- id: 64
+  code: 31281
+  designation: Filtre hydraulique ( Flueguard LF 519 )
+  pix: "/static/mtc/mypix.png"
+  letype_id: 7
+  marque_id: 1
+  prix_ttc: 55200
+  famille_id: 3
+  depot_id: 1
+  centre_id: 1
+  reference: "HU 719/5X"
+  oem: 
+  marque_oem_id: 11
+  keywords: 
+  created_at: "2023-11-12T12:34:56.789Z"
+  updated_at: "2023-11-12T12:34:56.789Z"
+- id: 65
+  code: 37230
+  designation: Filtre huile hydraulique RVI Magnum 440-480 DXI 12 ( Mannfilter )
+  pix: "/static/mtc/mypix.png"
+  letype_id: 83
+  marque_id: 12
+  prix_ttc: 58800
+  famille_id: 3
+  depot_id: 1
+  centre_id: 1
+  reference: "HU 721 Z KIT"
+  oem: Hengst E28HD174 - Hengst E28HD175 - Renault 7401521527 - Renault 7422051238 - Mannfilter HU 721Y - Mahle 70341771 - Knecht HX 77ECO 
+  marque_oem_id: 11
+  keywords: 
+  created_at: "2023-11-12T12:34:56.789Z"
+  updated_at: "2023-11-12T12:34:56.789Z"
+- id: 66
+  code: 36088
+  designation: Filtre huile Nissan Atleon 56.15 ( Mannfilter )
+  pix: "/static/mtc/mypix.png"
+  letype_id: 68
+  marque_id: 5
+  prix_ttc: 50400
+  famille_id: 3
+  depot_id: 1
+  centre_id: 1
+  reference: "HU 825X"
+  oem: Fleetguard LF 16249
+  marque_oem_id: 11
+  keywords: 
+  created_at: "2023-11-12T12:34:56.789Z"
+  updated_at: "2023-11-12T12:34:56.789Z"
+- id: 67
+  code: 36089
+  designation: Filtre huile MB.Atego 1 ( 712-1533 ) Mannfilter
+  pix: "/static/mtc/mypix.png"
+  letype_id: 54
+  marque_id: 1
+  prix_ttc: 49200
+  famille_id: 3
+  depot_id: 1
+  centre_id: 1
+  reference: "HU 931/5X"
+  oem: Mercedes A 0001801609 - Knecht OX161D - Bosch F026407040 - KS50013629 - Fleetguard LF 3827 - Mecafilter ELH 4751 - Bosch F026407040 - Hengst E60H01D28 -  Knecht OX161DECO - Sampiynon CE 1136E - Hifi Filter SO 7035
+  marque_oem_id: 11
+  keywords: 
+  created_at: "2023-11-12T12:34:56.789Z"
+  updated_at: "2023-11-12T12:34:56.789Z"
+- id: 68
+  code: 35169
+  designation: Filtre huile moteur GM Iveco Stralis Euro 5 ( Mannfilter )
+  pix: "/static/mtc/mypix.png"
+  letype_id: 24
+  marque_id: 7
+  prix_ttc: 310800
+  famille_id: 3
+  depot_id: 1
+  centre_id: 1
+  reference: "HU 11002x"
+  oem: Iveco 5801592277 - Flueguard LF17546 
+  marque_oem_id: 11
+  keywords: 
+  created_at: "2023-11-12T12:34:56.789Z"
+  updated_at: "2023-11-12T12:34:56.789Z"
+- id: 69
+  code: 32376
+  designation: Filtre huile MB.Actros 1842 Euro 6 ( Mannfilter ) Jeu de 02 pieces /
+  pix: "/static/mtc/mypix.png"
+  letype_id: 46
+  marque_id: 1
+  prix_ttc: 152400
+  famille_id: 3
+  depot_id: 1
+  centre_id: 1
+  reference: "HU 12001Z"
+  oem: Meredes A 4721841225 - Mercedes A 4721800309 - Mercedes A 4721800409 - Mercedes A 4731800009 - Hengst E50H07D129 - Mercedes A 4721841225 - Mercedes A 4721800109 - Mercedes A 4721843025 - Mercedes A 4721800309 - Mercedes A 4731800209 - Mercedes A 4731800309 - Mercedes A 4731800709 - Mercedes A 4721843225 - Mercedes A 4721841125 
+  marque_oem_id: 11
+  keywords: 
+  created_at: "2023-11-12T12:34:56.789Z"
+  updated_at: "2023-11-12T12:34:56.789Z"
+- id: 70
+  code: 33073
+  designation: Filtre huile ( 51.05504.0118 / 51.05501.0011 )
+  pix: "/static/mtc/mypix.png"
+  letype_id: 29
+  marque_id: 1
+  prix_ttc: 187200
+  famille_id: 3
+  depot_id: 1
+  centre_id: 1
+  reference: "HU 12003X"
+  oem: 
+  marque_oem_id: 11
+  keywords: 
+  created_at: "2023-11-12T12:34:56.789Z"
+  updated_at: "2023-11-12T12:34:56.789Z"
+- id: 71
+  code: 35171
+  designation: Filtre huile moteur MB.Actros MP 2 OM 470 1833-36-40-1843 année 2011 ( Mannfilter )
+  pix: "/static/mtc/mypix.png"
+  letype_id: 1
+  marque_id: 1
+  prix_ttc: 195600
+  famille_id: 3
+  depot_id: 1
+  centre_id: 1
+  reference: "HU 12006Z"
+  oem: Mercedes A 4701840625 - Mercedes A 4701800009 - Mercedes A 4701800109 - Knecht OX423/9D - Hengst E824HD 264 - Fleetguard LF17548 -  Mercedes A 4701840725 - Mercedes A 4701800309 - Mercedes A 4701840825
+  marque_oem_id: 11
+  keywords: 
+  created_at: "2023-11-12T12:34:56.789Z"
+  updated_at: "2023-11-12T12:34:56.789Z"
+- id: 72
+  code: 36077
+  designation: Filtre huile ( 2 510 200 / WL10179  / S 5102 PE / 5801415504 )
+  pix: "/static/mtc/mypix.png"
+  letype_id: 25
+  marque_id: 1
+  prix_ttc: 324000
+  famille_id: 3
+  depot_id: 1
+  centre_id: 1
+  reference: "HU 12008X"
+  oem: 
+  marque_oem_id: 11
+  keywords: 
+  created_at: "2023-11-12T12:34:56.789Z"
+  updated_at: "2023-11-12T12:34:56.789Z"
+- id: 73
+  code: 28946
+  designation: Filtre huile moteur Euro 4 et 5 DAF CF 85 360-510 / XF 105 410-560 ( Mannfilter ) 110.5 * 56.5 * 220 
+  pix: "/static/mtc/mypix.png"
+  letype_id: 12
+  marque_id: 6
+  prix_ttc: 128400
+  famille_id: 3
+  depot_id: 1
+  centre_id: 1
+  reference: "HU 12103X"
+  oem: Fleetguard LF 16233 - Renault 7424993649 - Hengst E89HD97 - DAF 1629393 - DAF 1643070 - DAF 1948921 - DAF 1532479
+  marque_oem_id: 11
+  keywords: 
+  created_at: "2023-11-12T12:34:56.789Z"
+  updated_at: "2023-11-12T12:34:56.789Z"
+- id: 74
+  code: 30091
+  designation: Filtre huile MB.Axor 1840 / OM 457 LA ( Mannfilter )
+  pix: "/static/mtc/mypix.png"
+  letype_id: 59
+  marque_id: 1
+  prix_ttc: 76800
+  famille_id: 3
+  depot_id: 1
+  centre_id: 1
+  reference: "HU 12110X"
+  oem: Febi 47863 - Bosch 09864B7051 replace F026407042 - Mercedes A 0001802109 - Mercedes A 0001802909 - Hengst E175HD129 - Fleetguard LF16046 - Mecafilter ELH4771 - SO7139 - Mercedes A 0021888001 - Mercedes A 0021887901 - Sampiyon CE1124E
+  marque_oem_id: 11
+  keywords: 
+  created_at: "2023-11-12T12:34:56.789Z"
+  updated_at: "2023-11-12T12:34:56.789Z"
+- id: 75
+  code: 30111
+  designation: Filtre huile moteur MB.Actros 1831 à 1943 / MB.Actros II ( Mannfilter )
+  pix: "/static/mtc/mypix.png"
+  letype_id: 41
+  marque_id: 1
+  prix_ttc: 88800
+  famille_id: 3
+  depot_id: 1
+  centre_id: 1
+  reference: "HU 12140X"
+  oem: Knecht OX 168D - Bosch 09864B7010 replace Bosch 1457429128 - Mecafilter ELH 4736 - Fleetguard LF 3829 - Bosch 1457429128 -Sampiyon CE1130E - Mercedes A 4571800009 - Mercedes A 4571840025
+  marque_oem_id: 11
+  keywords: 
+  created_at: "2023-11-12T12:34:56.789Z"
+  updated_at: "2023-11-12T12:34:56.789Z"
+- id: 76
+  code: 35165
+  designation: Filtre gasoil Komatsu ( Mannfilter )
+  pix: "/static/mtc/mypix.png"
+  letype_id: 1
+  marque_id: 1
+  prix_ttc: 163200
+  famille_id: 3
+  depot_id: 1
+  centre_id: 1
+  reference: "WK 940/36"
+  oem: 
+  marque_oem_id: 11
+  keywords: 
+  created_at: "2023-11-12T12:34:56.789Z"
+  updated_at: "2023-11-12T12:34:56.789Z"
+- id: 77
+  code: 33746
+  designation: Filtre gasoil Hino / Grader ( Mannfilter )
+  pix: "/static/mtc/mypix.png"
+  letype_id: 21
+  marque_id: 9
+  prix_ttc: 58800
+  famille_id: 3
+  depot_id: 1
+  centre_id: 1
+  reference: "WK 950/3"
+  oem: Fleuguard FF 185 - Mecafilter ELG 5508
+  marque_oem_id: 11
+  keywords: 
+  created_at: "2023-11-12T12:34:56.789Z"
+  updated_at: "2023-11-12T12:34:56.789Z"
+- id: 78
+  code: 32372
+  designation: Filtre gasoil Komatsu PC 200-6 ( Mannfilter  )
+  pix: "/static/mtc/mypix.png"
+  letype_id: 26
+  marque_id: 8
+  prix_ttc: 291600
+  famille_id: 3
+  depot_id: 1
+  centre_id: 1
+  reference: "WK 950/16X"
+  oem: Fleetguard FF 194 - Fleetguard FS 1212 - Hifi Filter SN 1212 - Mecafilter ELG 5508 - Hengst H 169WK
+  marque_oem_id: 11
+  keywords: 
+  created_at: "2023-11-12T12:34:56.789Z"
+  updated_at: "2023-11-12T12:34:56.789Z"
+- id: 79
+  code: 36735
+  designation: Filtre gasoil décanteur Iveco Stralis 480 moteur cursor 13 ( Mannfilter )
+  pix: "/static/mtc/mypix.png"
+  letype_id: 23
+  marque_id: 7 
+  prix_ttc: 80400
+  famille_id: 3
+  depot_id: 1
+  centre_id: 1
+  reference: "WK 950/19"
+  oem: Iveco 2992662 - Fleetguard FS 19821 - Mecafilter ELG 5535 - Hengst H215WK
+  marque_oem_id: 11
+  keywords: 
+  created_at: "2023-11-12T12:34:56.789Z"
+  updated_at: "2023-11-12T12:34:56.789Z"
+- id: 80
+  code: 31285
+  designation: Filtre gasoil New Holland ( Mannfilter )
+  pix: "/static/mtc/mypix.png"
+  letype_id: 97
+  marque_id: 7
+  prix_ttc: 73200
+  famille_id: 3
+  depot_id: 1
+  centre_id: 1
+  reference: "WK 950/21"
+  oem: Iveco 2992241 - Iveco 500039730 - Komatsu 6754-79-6130 - komatsu 6754-79-6140 - Komatsu 6754-71-6140 - Fleetguard  FF5485 - Hengst  H18WK05 replace Hengst H191WK - Ks KC188 - DAF 1399760 - FF5485 - Mecafilter  ELG5537
+  marque_oem_id: 11
+  keywords: 
+  created_at: "2023-11-12T12:34:56.789Z"
+  updated_at: "2023-11-12T12:34:56.789Z"
+- id: 81
+  code: 28962
+  designation: Filtre gasoil GM XF 95 Euro 2 ( Mannfilter )
+  pix: "/static/mtc/mypix.png"
+  letype_id: 76
+  marque_id: 6
+  prix_ttc: 50400
+  famille_id: 3
+  depot_id: 1
+  centre_id: 1
+  reference: "WK 962/4"
+  oem: Bosch 1457429676 - Knecht KC7 - Renault 5010477856 - Mecafilter ELG 5502 - Baldwin BF 980 - Fleetguard FF 4070 - Sampiynon CS1453-M - Hengst H 18WK04 - Knecht KC 7
+  marque_oem_id: 11
+  keywords: 
+  created_at: "2023-11-12T12:34:56.789Z"
+  updated_at: "2023-11-12T12:34:56.789Z"
+- id: 82
+  code: 33068
+  designation: Filtre gasoil Sinotruck ( Mannfilter )
+  pix: "/static/mtc/mypix.png"
+  letype_id: 98
+  marque_id: 10
+  prix_ttc: 50400
+  famille_id: 3
+  depot_id: 1
+  centre_id: 1
+  reference: "WK 962/7"
+  oem: Mecafilter ELG 5522 - Wiwfilter WF 10333 - Howo VG1560080011 - Volvo 8 193 841 - Howo VG1560080012 
+  marque_oem_id: 11
+  keywords: 
+  created_at: "2023-11-12T12:34:56.789Z"
+  updated_at: "2023-11-12T12:34:56.789Z"
+- id: 83
+  code: 30896
+  designation: Filtre gasoil CAT Trax 962 ( Mannfilter )
+  pix: "/static/mtc/mypix.png"
+  letype_id: 4
+  marque_id: 1
+  prix_ttc: 105600
+  famille_id: 3
+  depot_id: 1
+  centre_id: 1
+  reference: "WK 970/2"
+  oem: Caterpillar 1R-0753  -  Fleetguard FF 5322 -  1R-0753 / FF 5322-5323 / FF 5818 / BF 7631 / FF 5322
+  marque_oem_id: 11
+  keywords: 
+  created_at: "2023-11-12T12:34:56.789Z"
+  updated_at: "2023-11-12T12:34:56.789Z"
+- id: 84
+  code: 33764
+  designation: Filtre gasoil DAF LF 45 220 ( Mannfilter )
+  pix: "/static/mtc/mypix.png"
+  letype_id: 18
+  marque_id: 6
+  prix_ttc: 164400
+  famille_id: 3
+  depot_id: 1
+  centre_id: 1
+  reference: "WK 965X"
+  oem: Mecafilter ELG 5563 - Fleetguard FF 5038 - Donfeng 1125N-010
+  marque_oem_id: 11
+  keywords: 
+  created_at: "2023-11-12T12:34:56.789Z"
+  updated_at: "2023-11-12T12:34:56.789Z"
+- id: 85
+  code: 43760
+  designation: Filtre gasoil CAT ( Mannfilter )
+  pix: "/static/mtc/mypix.png"
+  letype_id: 2
+  marque_id: 4
+  prix_ttc: 0
+  famille_id: 3
+  depot_id: 1
+  centre_id: 1
+  reference: "WK 980/1"
+  oem: Caterpillar 1R-0749 - Hifi Filter SN 55418 - Fleetguard FF 5319 - Caterpillar 1R-1712 - Caterpillar 3I-0752 - Caterpillar 3I-1333
+  marque_oem_id: 11
+  keywords: 
+  created_at: "2023-11-12T12:34:56.789Z"
+  updated_at: "2023-11-12T12:34:56.789Z"
+- id: 86
+  code: 33065
+  designation: Filtre gasoil RVI Midlium NM ( Mannfilter )
+  pix: "/static/mtc/mypix.png"
+  letype_id: 85
+  marque_id: 2
+  prix_ttc: 158400
+  famille_id: 3
+  depot_id: 1
+  centre_id: 1
+  reference: "WK 1040/1X"
+  oem: Renault  7421380403 - Rennault 7420591526 - Renault  7420851191 - Fleetguard FS19895  - Fleetguard FS19810 - Knecht KC 384D - Hengst H 7062WK30 - Mecafilter ELG 5559
+  marque_oem_id: 11
+  keywords: 
+  created_at: "2023-11-12T12:34:56.789Z"
+  updated_at: "2023-11-12T12:34:56.789Z"
+- id: 87
+  code: 28967
+  designation: Filtre gasoil décanteur DAF XF 95-105 / Scania P 260-300 ( Mannfilter )
+  pix: "/static/mtc/mypix.png"
+  letype_id: 10
+  marque_id: 6
+  prix_ttc: 165600
+  famille_id: 3
+  depot_id: 1
+  centre_id: 1
+  reference: "WK 1060/3X"
+  oem: Knecht  KC 249D - Fleetguard FS 19532 - PS 8486 - Mannfilter WK 1060/3X - Mecafilter ELG 5538 - Hifi Filter SN909030
+  marque_oem_id: 11
+  keywords: 
+  created_at: "2023-11-12T12:34:56.789Z"
+  updated_at: "2023-11-12T12:34:56.789Z"
+- id: 88
+  code: 100477
+  designation: Globe de phare gauche Nissan UD CWB 450
+  pix: "/static/mtc/mypix.png"
+  letype_id: 69
+  marque_id: 5
+  prix_ttc: 453600
+  famille_id: 6
+  depot_id: 1
+  centre_id: 1
+  reference: ""
+  oem: 
+  marque_oem_id: 4
+  keywords: 
+  created_at: "2023-11-12T12:34:56.789Z"
+  updated_at: "2023-11-12T12:34:56.789Z"
+- id: 89
+  code: 100478
+  designation: Globe de phare droite Nissan UD CWB 450
+  pix: "/static/mtc/mypix.png"
+  letype_id: 69
+  marque_id: 5
+  prix_ttc: 453600
+  famille_id: 6
+  depot_id: 1
+  centre_id: 1
+  reference: ""
+  oem: 
+  marque_oem_id: 4
+  keywords: 
+  created_at: "2023-11-12T12:34:56.789Z"
+  updated_at: "2023-11-12T12:34:56.789Z"
+- id: 90
+  code: 43954
+  designation: Synchro 2-3 éme RVI Premium 250 Bv Eaton 8209 ( Euroricambi )
+  pix: "/static/mtc/mypix.png"
+  letype_id: 90
+  marque_id: 2
+  prix_ttc: 216000
+  famille_id: 5
+  depot_id: 1
+  centre_id: 1
+  reference: "35510035"
+  oem: Cei 109373 - Eaton 8871639 - Eaton 8777321 - Eaton 8871639 - Renault 5001836001 - Mercedes A 0002623337 - Man 81.032420.0221
+  marque_oem_id: 5
+  keywords: 
+  created_at: "2023-11-12T12:34:56.789Z"
+  updated_at: "2023-11-12T12:34:56.789Z"
+- id: 91
+  code: 43953
+  designation: Synchro 5 éme porte bonhomme RVI Premium 210 Bv Eaton 4106 ( Euroricambi )
+  pix: "/static/mtc/mypix.png"
+  letype_id: 89
+  marque_id: 2
+  prix_ttc: 369600
+  famille_id: 5
+  depot_id: 1
+  centre_id: 1
+  reference: "35510201"
+  oem: Cei 157994 - Eaton 8875127 - Renault 5001821505 - Man 81.32403.0099 - Volvo 3126204 - Iveco 42538315
+  marque_oem_id: 5
+  keywords: 
+  created_at: "2023-11-12T12:34:56.789Z"
+  updated_at: "2023-11-12T12:34:56.789Z"
+- id: 92
+  code: 43934
+  designation: Synchro gamme rapide 86 dents Bv Eaton 6309 ( Euroricambi )
+  pix: "/static/mtc/mypix.png"
+  letype_id: 79
+  marque_id: 2
+  prix_ttc: 927600
+  famille_id: 5
+  depot_id: 1
+  centre_id: 1
+  reference: "35510287"
+  oem: Cei 123275 - Renault 5001862928 - DAF 1456371 - Eaton 8880231 - Iveco 42558267 - Man 81.32319.0004
+  marque_oem_id: 5
+  keywords: 
+  created_at: "2023-11-12T12:34:56.789Z"
+  updated_at: "2023-11-12T12:34:56.789Z"
+- id: 93
+  code: 43950
+  designation: Synchro G3 65 MB.1617 ( Euroricambi )
+  pix: "/static/mtc/mypix.png"
+  letype_id: 30
+  marque_id: 1
+  prix_ttc: 403200
+  famille_id: 5
+  depot_id: 1
+  centre_id: 1
+  reference: "60530293"
+  oem: Cei 109125 - Mercedes A 3852620434
+  marque_oem_id: 5
+  keywords: 
+  created_at: "2023-11-12T12:34:56.789Z"
+  updated_at: "2023-11-12T12:34:56.789Z"
+- id: 94
+  code: 43932
+  designation: Synchro lente B 90 MB.1922 ( Euroricambi )
+  pix: "/static/mtc/mypix.png"
+  letype_id: 32
+  marque_id: 1
+  prix_ttc: 583200
+  famille_id: 5
+  depot_id: 1
+  centre_id: 1
+  reference: "60530303"
+  oem: Cei 198392 - Mercedes A 3852603245 - Mercedes A 3852601345
+  marque_oem_id: 5
+  keywords: 
+  created_at: "2023-11-12T12:34:56.789Z"
+  updated_at: "2023-11-12T12:34:56.789Z"
+- id: 95
+  code: 43946
+  designation: Synchro Bv G 4 65 07 speeds MB.1722  ( Euroricambi )
+  pix: "/static/mtc/mypix.png"
+  letype_id: 31
+  marque_id: 1
+  prix_ttc: 540000
+  famille_id: 5
+  depot_id: 1
+  centre_id: 1
+  reference: "60530505"
+  oem: Cei 109346 - Mercedes A 3872621034 - Mercedes A 3872624934
+  marque_oem_id: 5
+  keywords: 
+  created_at: "2023-11-12T12:34:56.789Z"
+  updated_at: "2023-11-12T12:34:56.789Z"
+- id: 96
+  code: 43949
+  designation: Synchro 1 ére / 2 ème B 155 - 180 - 200 ( Euroricambi ) GM
+  pix: "/static/mtc/mypix.png"
+  letype_id: 36
+  marque_id: 1
+  prix_ttc: 548400
+  famille_id: 5
+  depot_id: 1
+  centre_id: 1
+  reference: "60530521"
+  oem: Cei 109187 - Mercedes A 3892620034 - Mercedes A 9452620434 - ZF 0073301200
+  marque_oem_id: 5
+  keywords: 
+  created_at: "2023-11-12T12:34:56.789Z"
+  updated_at: "2023-11-12T12:34:56.789Z"
+- id: 97
+  code: 43246
+  designation: Synchro gamme rapide 73 dents Bv 155-221 ou porte bonhomme ( Euroricambi )
+  pix: "/static/mtc/mypix.png"
+  letype_id: 35
+  marque_id: 1
+  prix_ttc: 436800
+  famille_id: 5
+  depot_id: 1
+  centre_id: 1
+  reference: "60530730"
+  oem: Cei 155204 - Mercedes A 3892624935 - Mercedes A 3892622035
+  marque_oem_id: 5
+  keywords: 
+  created_at: "2023-11-12T12:34:56.789Z"
+  updated_at: "2023-11-12T12:34:56.789Z"
+- id: 98
+  code: 43939
+  designation: Synchro gamme rapide Bv 155 - 180 MB.1948 ( Euroricambi )
+  pix: "/static/mtc/mypix.png"
+  letype_id: 38
+  marque_id: 1
+  prix_ttc: 841200
+  famille_id: 5
+  depot_id: 1
+  centre_id: 1
+  reference: "60530680"
+  oem: Cei 109188 - Mercedes A 3892624034
+  marque_oem_id: 5
+  keywords: 
+  created_at: "2023-11-12T12:34:56.789Z"
+  updated_at: "2023-11-12T12:34:56.789Z"
+- id: 99
+  code: 44388
+  designation: Synchro gamme rapide Bv 125 - 135 MB.1929 ( Euroricambi )
+  pix: "/static/mtc/mypix.png"
+  letype_id: 34
+  marque_id: 1
+  prix_ttc: 1044000
+  famille_id: 5
+  depot_id: 1
+  centre_id: 1
+  reference: "60530910"
+  oem: Cei 109338 - Mercedes A 3892622334 - Mercedes A 3892621934 - Mercedes A 3892620934 - Iveco 60002655
+  marque_oem_id: 5
+  keywords: 
+  created_at: "2023-11-12T12:34:56.789Z"
+  updated_at: "2023-11-12T12:34:56.789Z"
+- id: 101
+  code: 44389
+  designation: Synchro gamme rapide Bv 210 MB.Axor ( Euroricambi )
+  pix: "/static/mtc/mypix.png"
+  letype_id: 40
+  marque_id: 1
+  prix_ttc: 819600
+  famille_id: 5
+  depot_id: 1
+  centre_id: 1
+  reference: "60531052"
+  oem: Cei 109337 - Mercedes A 3892629234 - Mercedes A 9452621234 - ZF Transmissions 0073301205 - Iveco 60003036
+  marque_oem_id: 5
+  keywords: 
+  created_at: "2023-11-12T12:34:56.789Z"
+  updated_at: "2023-11-12T12:34:56.789Z"
+- id: 102
+  code: 44391
+  designation: Synchro gamme rapide ou réducteur Bv 210 ( Euroricambi )
+  pix: "/static/mtc/mypix.png"
+  letype_id: 44
+  marque_id: 1
+  prix_ttc: 1594800
+  famille_id: 5
+  depot_id: 1
+  centre_id: 1
+  reference: "60531091"
+  oem: Cei 123230 - Mercedes A 9452601461 - Mercedes A 9452620108 - Mercedes A 3892620808
+  marque_oem_id: 5
+  keywords: 
+  created_at: "2023-11-12T12:34:56.789Z"
+  updated_at: "2023-11-12T12:34:56.789Z"
+- id: 103
+  code: 43602
+  designation: Synchro gamme rapide 59 dents avec ralentisseur Bv G 221 ( Euroricambi )
+  pix: "/static/mtc/mypix.png"
+  letype_id: 67
+  marque_id: 1
+  prix_ttc: 1634400
+  famille_id: 5
+  depot_id: 1
+  centre_id: 1
+  reference: "60531709"
+  oem: Cei 109341 - Euroricambi 60531709 - Mercedes A 9452640420 - Mercedes A 9452640220 - ZF 0073301541
+  marque_oem_id: 5
+  keywords: 
+  created_at: "2023-11-12T12:34:56.789Z"
+  updated_at: "2023-11-12T12:34:56.789Z"
+- id: 104
+  code: 43262
+  designation: Synchro gamme rapide MB.Axor Bv G 221 ( Euroricambi )
+  pix: "/static/mtc/mypix.png"
+  letype_id: 57
+  marque_id: 1
+  prix_ttc: 763200
+  famille_id: 5
+  depot_id: 1
+  centre_id: 1
+  reference: "60531736"
+  oem: Cei 109408 - Euroricambi 60531736 - Mercedes A 9452623834
+  marque_oem_id: 5
+  keywords: 
+  created_at: "2023-11-12T12:34:56.789Z"
+  updated_at: "2023-11-12T12:34:56.789Z"
+- id: 105
+  code: 43935
+  designation: Synchro gamme rapide ou réducteur Bv G 221 MB.Axor ( Euroricambi )
+  pix: "/static/mtc/mypix.png"
+  letype_id: 57
+  marque_id: 1
+  prix_ttc: 967200
+  famille_id: 5
+  depot_id: 1
+  centre_id: 1
+  reference: "60531748"
+  oem: Mercedes A 9452620208 - Cei 123232 - ZF 0073301172
+  marque_oem_id: 5
+  keywords: 
+  created_at: "2023-11-12T12:34:56.789Z"
+  updated_at: "2023-11-12T12:34:56.789Z"
+- id: 106
+  code: 43244
+  designation: Synchro gamme rapide ou réducteur Bv G 221 MB.Axor ( Euroricambi )
+  pix: "/static/mtc/mypix.png"
+  letype_id: 65
+  marque_id: 1
+  prix_ttc: 876000
+  famille_id: 5
+  depot_id: 1
+  centre_id: 1
+  reference: "60531886"
+  oem: Cei 123313 - Mercedes A 9452620808  - Mercedes A 9452621208
+  marque_oem_id: 5
+  keywords: 
+  created_at: "2023-11-12T12:34:56.789Z"
+  updated_at: "2023-11-12T12:34:56.789Z"
+- id: 107
+  code: 43948
+  designation: Synchro 2 éme Bv 210 MB.Axor ( Euroricambi )
+  pix: "/static/mtc/mypix.png"
+  letype_id: 61
+  marque_id: 1
+  prix_ttc: 571200
+  famille_id: 5
+  depot_id: 1
+  centre_id: 1
+  reference: "60531889"
+  oem: Cei 109415 - Mercedes A 9452625534 - ZF 0073301183
+  marque_oem_id: 5
+  keywords: 
+  created_at: "2023-11-12T12:34:56.789Z"
+  updated_at: "2023-11-12T12:34:56.789Z"
+- id: 108
+  code: 43947
+  designation: Synchro 3 ème / 4 ème BV 211 MB.Axor 1843 ( Euroricambi ) New Model
+  pix: "/static/mtc/mypix.png"
+  letype_id: 61
+  marque_id: 1
+  prix_ttc: 590400
+  famille_id: 5
+  depot_id: 1
+  centre_id: 1
+  reference: "60531895"
+  oem: Cei 109742 - Mercedes A 9452623634 - ZF 1290304478 - Mercedes A 9452627834 - Mercedes 9452627734
+  marque_oem_id: 5
+  keywords: 
+  created_at: "2023-11-12T12:34:56.789Z"
+  updated_at: "2023-11-12T12:34:56.789Z"
+- id: 109
+  code: 43936
+  designation: Synchro gamme rapide 63 dents ralentisseur Bv G 221 ( Euroricambi )
+  pix: "/static/mtc/mypix.png"
+  letype_id: 57
+  marque_id: 1
+  prix_ttc: 2472000
+  famille_id: 5
+  depot_id: 1
+  centre_id: 1
+  reference: "60531923"
+  oem: Cei 109793 - Mercedes A 9452640520
+  marque_oem_id: 5
+  keywords: 
+  created_at: "2023-11-12T12:34:56.789Z"
+  updated_at: "2023-11-12T12:34:56.789Z"
+- id: 110
+  code: 43601
+  designation: Synchro gamme rapide 59 dents ralentisseur Bv G 240-11 MB.Actros 1846 MP 2 ( Euroricambi )
+  pix: "/static/mtc/mypix.png"
+  letype_id: 48
+  marque_id: 1
+  prix_ttc: 1570800
+  famille_id: 5
+  depot_id: 1
+  centre_id: 1
+  reference: "60532029"
+  oem: Cei 196370 - Mercedes A 9302640420
+  marque_oem_id: 5
+  keywords: 
+  created_at: "2023-11-12T12:34:56.789Z"
+  updated_at: "2023-11-12T12:34:56.789Z"
+- id: 111
+  code: 43945
+  designation: Synchro 3éme G 131-9 / G 141-9 MB.Axor / Atego  ( Euroricambi )
+  pix: "/static/mtc/mypix.png"
+  letype_id: 58
+  marque_id: 1
+  prix_ttc: 506400
+  famille_id: 5
+  depot_id: 1
+  centre_id: 1
+  reference: "60532034"
+  oem: Cei 109423 - Mercedes A 9452625734 - Mercedes A 4002620934
+  marque_oem_id: 5
+  keywords: 
+  created_at: "2023-11-12T12:34:56.789Z"
+  updated_at: "2023-11-12T12:34:56.789Z"
+- id: 112
+  code: 43933
+  designation: Synchro gamme rapide Bv G 221 MB.Axor ( Euroricambi )
+  pix: "/static/mtc/mypix.png"
+  letype_id: 57
+  marque_id: 1
+  prix_ttc: 1122000
+  famille_id: 5
+  depot_id: 1
+  centre_id: 1
+  reference: "60532319"
+  oem: Cei 150144 - Mercedes A 3892621425 - Mercedes A 9302620125 - ZF 0073301171
+  marque_oem_id: 5
+  keywords: 
+  created_at: "2023-11-12T12:34:56.789Z"
+  updated_at: "2023-11-12T12:34:56.789Z"
+- id: 113
+  code: 43600
+  designation: Synchro 4 éme Bv 240 MB.Actros ( Euroricambi )
+  pix: "/static/mtc/mypix.png"
+  letype_id: 40
+  marque_id: 1
+  prix_ttc: 502800
+  famille_id: 5
+  depot_id: 1
+  centre_id: 1
+  reference: "60532444"
+  oem: Cei 109414 -Mercedes A 9452628234 - Mercedes A 9452625434 - ZF 0073301188
+  marque_oem_id: 5
+  keywords: 
+  created_at: "2023-11-12T12:34:56.789Z"
+  updated_at: "2023-11-12T12:34:56.789Z"
+- id: 114
+  code: 43943
+  designation: Synchro arbre secondaire 28 dents 3 ème / 4 ème B 9 - B 18 ( Euroricambi ) PM
+  pix: "/static/mtc/mypix.png"
+  letype_id: 75
+  marque_id: 2
+  prix_ttc: 1804800
+  famille_id: 5
+  depot_id: 1
+  centre_id: 1
+  reference: "70530141"
+  oem: Renault  5000673430 - Renault 5000673109 - Cei 196220
+  marque_oem_id: 5
+  keywords: 
+  created_at: "2023-11-12T12:34:56.789Z"
+  updated_at: "2023-11-12T12:34:56.789Z"
+- id: 115
+  code: 43944
+  designation: Synchro arbre secondaire 1 ére / 2 ème B 9 - B 18 ( Euroricambi )
+  pix: "/static/mtc/mypix.png"
+  letype_id: 75
+  marque_id: 2
+  prix_ttc: 1767600
+  famille_id: 5
+  depot_id: 1
+  centre_id: 1
+  reference: "70530142"
+  oem: Cei 196219 - Renault 5000673429 - Renault 5000673108
+  marque_oem_id: 5
+  keywords: 
+  created_at: "2023-11-12T12:34:56.789Z"
+  updated_at: "2023-11-12T12:34:56.789Z"
+- id: 116
+  code: 43942
+  designation: Synchro delta 2 B 9 RVI CBH 320 ( Euroricambi )
+  pix: "/static/mtc/mypix.png"
+  letype_id: 75
+  marque_id: 2
+  prix_ttc: 1162800
+  famille_id: 5
+  depot_id: 1
+  centre_id: 1
+  reference: "70530254"
+  oem: Cei 196226 - Renault 5000673397 - Renault 5000690174
+  marque_oem_id: 5
+  keywords: 
+  created_at: "2023-11-12T12:34:56.789Z"
+  updated_at: "2023-11-12T12:34:56.789Z"
+- id: 117
+  code: 43599
+  designation: Synchro gamme rapide Bv Auto AT 2412C RVI Premium DXI 460 ( Euroricambi )
+  pix: "/static/mtc/mypix.png"
+  letype_id: 95
+  marque_id: 2
+  prix_ttc: 339300
+  famille_id: 5
+  depot_id: 1
+  centre_id: 1
+  reference: "88530660"
+  oem: Cei 109833 - Renault 7420760515 - Volvo 20760515 - Volvo 21994372 - ZF 0073301021 
+  marque_oem_id: 5
+  keywords: 
+  created_at: "2023-11-12T12:34:56.789Z"
+  updated_at: "2023-11-12T12:34:56.789Z"
+- id: 118
+  code: 43938
+  designation: Synchro arbre de sortie Bv 2412B RVI Premium 440 DXI ( Euroricambi )
+  pix: "/static/mtc/mypix.png"
+  letype_id: 93
+  marque_id: 2
+  prix_ttc: 1154400
+  famille_id: 5
+  depot_id: 1
+  centre_id: 1
+  reference: "88530721"
+  oem: Cei 109251 - Renault 7421235526 - Volvo 21235526
+  marque_oem_id: 5
+  keywords: 
+  created_at: "2023-11-12T12:34:56.789Z"
+  updated_at: "2023-11-12T12:34:56.789Z"
+- id: 119
+  code: 43598
+  designation: Synchro gamme rapide Bv Volvo AT 2412C W/O intarder (  Euroricambi )
+  pix: "/static/mtc/mypix.png"
+  letype_id: 94
+  marque_id: 2
+  prix_ttc: 2446800
+  famille_id: 5
+  depot_id: 1
+  centre_id: 1
+  reference: "88530732"
+  oem: Cei 109764 - Volvo 21009061 - Volvo 21751233 - Volvo 21480996 - Renault 7421751233 - Renault 7421480996
+  marque_oem_id: 5
+  keywords: 
+  created_at: "2023-11-12T12:34:56.789Z"
+  updated_at: "2023-11-12T12:34:56.789Z"
+- id: 120
+  code: 43597
+  designation: Synchro 1 ére - 2 éme / 3 éme / 4 éme 16 S 112-130-160-190 MB. 1928 PM ( Euroricambi )
+  pix: "/static/mtc/mypix.png"
+  letype_id: 33
+  marque_id: 1
+  prix_ttc: 252000
+  famille_id: 5
+  depot_id: 1
+  centre_id: 1
+  reference: "95530644"
+  oem: Cei 109072 - Mercedes A 0002621945 - Mercedes A 0002621940 - Mercedes A 0002621340 - ZF1295304294 - ZF 1297304041 - ZF 1295304278 -  Renault 5000289689 - Renault  5000289718 - Man 81.32425.0071 - Volvo 1527438 - Volvo 1526695 - DAF 692073 - DAF 692086 - Iveco 7982177 - Iveco 7982260 - Iveco 42492273 - Iveco 42492293
+  marque_oem_id: 5
+  keywords: 
+  created_at: "2023-11-12T12:34:56.789Z"
+  updated_at: "2023-11-12T12:34:56.789Z"
+- id: 121
+  code: 43951
+  designation: Synchro Bv 112 MB.1928 ( Euroricambi )
+  pix: "/static/mtc/mypix.png"
+  letype_id: 33
+  marque_id: 1
+  prix_ttc: 277200
+  famille_id: 5
+  depot_id: 1
+  centre_id: 1
+  reference: "95530645"
+  oem: Cei 109083 - ZF 1295304165 - Mercedes A 0002621440 - A 0002621440
+  marque_oem_id: 5
+  keywords: 
+  created_at: "2023-11-12T12:34:56.789Z"
+  updated_at: "2023-11-12T12:34:56.789Z"
+- id: 122
+  code: 43596
+  designation: Synchro lente DAF F 95 Bv 130 - 160 - 190 ( Euroricambi )
+  pix: "/static/mtc/mypix.png"
+  letype_id: 14
+  marque_id: 14
+  prix_ttc: 633600
+  famille_id: 5
+  depot_id: 1
+  centre_id: 1
+  reference: "95530682"
+  oem: Cei 198358 - Mercedes A 0002631720 - Mercedes A 0002630920 - ZF 0769186283 -ZF 1295233029 - ZF 1296333007 - ZF 1296233006 - ZF 1296233005 - Volvo 1527360 - Volvo 1526850 - DAF 689812 - DAF 0689812 - Iveco 7982213 - Iveco 42492418 - Man 81.32425.0073 - 81.32425.0064 - Renault 5000289822
+  marque_oem_id: 5
+  keywords: 
+  created_at: "2023-11-12T12:34:56.789Z"
+  updated_at: "2023-11-12T12:34:56.789Z"
+- id: 123
+  code: 43941
+  designation: Synchro gamme rapide ou réducteur 16 S 181 / 221 RVI Premium / Man TGA ( Euroricambi )
+  pix: "/static/mtc/mypix.png"
+  letype_id: 88
+  marque_id: 12
+  prix_ttc: 376800
+  famille_id: 5
+  depot_id: 1
+  centre_id: 1
+  reference: "95531282"
+  oem: Cei 109174 - Renault 5001848259 - ZF 1296333050 - ZF 1316333009 - Iveco 42535041 - DAF 1377131 - Man 81.32425.0141 - 81.32425.0134
+  marque_oem_id: 5
+  keywords: 
+  created_at: "2023-11-12T12:34:56.789Z"
+  updated_at: "2023-11-12T12:34:56.789Z"
+- id: 124
+  code: 44392
+  designation: Synchro gamme rapide Bv 191 DAF F 95 XF / RVI Premium 400 ( Euroricambi )
+  pix: "/static/mtc/mypix.png"
+  letype_id: 16
+  marque_id: 14
+  prix_ttc: 684000
+  famille_id: 5
+  depot_id: 1
+  centre_id: 1
+  reference: "95531284"
+  oem: Cei 109175 - ZF  1316233015 - ZF 1315233025 - Renault 7485115539 - Astra 131804 - Astra AST131804 - DAF 1330419 - Iveco 42535042 - Iveco 503557218 - Renault 5001843132 - Man 81.32425.0132 - Man 81.32425.0133
+  marque_oem_id: 5
+  keywords: 
+  created_at: "2023-11-12T12:34:56.789Z"
+  updated_at: "2023-11-12T12:34:56.789Z"
+- id: 125
+  code: 43239
+  designation: Synchro gamme rapide ou réducteur 16 S 181 / 221 RVI Premium 420 DCI / Man  / DAF XF ( Euroricambi )
+  pix: "/static/mtc/mypix.png"
+  letype_id: 92
+  marque_id: 12
+  prix_ttc: 882000
+  famille_id: 5
+  depot_id: 1
+  centre_id: 1
+  reference: "95534637"
+  oem: Cei 150136 - ZF  1316332103 - Renault 5001851633 -Renault 5001851633 - Man  81.32403.0108
+  marque_oem_id: 5
+  keywords: 
+  created_at: "2023-11-12T12:34:56.789Z"
+  updated_at: "2023-11-12T12:34:56.789Z"
+- id: 126
+  code: 43952
+  designation: Synchro RVI Kerax DXI 460 ( Euroricambi )
+  pix: "/static/mtc/mypix.png"
+  letype_id: 81
+  marque_id: 2
+  prix_ttc: 369600
+  famille_id: 5
+  depot_id: 1
+  centre_id: 1
+  reference: "95534936"
+  oem: Cei 109208 - ZF 1356304025 - Renault 7421388226 - DAF 1833892 - Iveco 42562890 - Man 81.32425.0186 - ZF 1316304218
+  marque_oem_id: 5
+  keywords: 
+  created_at: "2023-11-12T12:34:56.789Z"
+  updated_at: "2023-11-12T12:34:56.789Z"
+- id: 127
+  code: 44390
+  designation: Synchro 3 éme 16 S 150 Iveco / DAF / Man ( Euroricambi )
+  pix: "/static/mtc/mypix.png"
+  letype_id: 22
+  marque_id: 15
+  prix_ttc: 342000
+  famille_id: 5
+  depot_id: 1
+  centre_id: 1
+  reference: "95534979"
+  oem: Cei 109839 - ZF 1316304190 - DAF 1831990 - Man 81.32425.0184  - ZF 1316304201 - Renault 7421388226 - Iveco 500054122 - Iveco 42562882 - Hino 33389-EV010 - DAF 1832005 - Iveco 95005788
+  marque_oem_id: 5
+  keywords: 
+  created_at: "2023-11-12T12:34:56.789Z"
+  updated_at: "2023-11-12T12:34:56.789Z"
+- id: 128
+  code: 43595
+  designation: Synchro lente ZF 16 S 151-181-221 MB.1935 / DAF XF 95 ( Euroricambi )
+  pix: "/static/mtc/mypix.png"
+  letype_id: 37
+  marque_id: 16
+  prix_ttc: 714000
+  famille_id: 5
+  depot_id: 1
+  centre_id: 1
+  reference: "95570582"
+  oem: Cei 198789 - Cei 298017 - Euroricambi 95570582 -Euroricambi 95530685 - ZF 1296333024  - DAF 1307482 - Iveco 93191215 - ZF 1315233006 - Renault 5001843126 - Man 81.32425.0121
+  marque_oem_id: 5
+  keywords: 
+  created_at: "2023-11-12T12:34:56.789Z"
+  updated_at: "2023-11-12T12:34:56.789Z"
+- id: 129
+  code: 100479
+  designation: Cylindre émetteur embrayage Nissan UD CWB 450
+  pix: "/static/mtc/mypix.png"
+  letype_id: 69
+  marque_id: 5
+  prix_ttc: 427200
+  famille_id: 5
+  depot_id: 1
+  centre_id: 1
+  reference: ""
+  oem: 
+  marque_oem_id: 4
+  keywords: 
+  created_at: "2023-11-12T12:34:56.789Z"
+  updated_at: "2023-11-12T12:34:56.789Z"
