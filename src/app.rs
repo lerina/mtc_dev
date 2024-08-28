@@ -16,7 +16,7 @@ use sea_orm::DatabaseConnection;
 
 use crate::{
     controllers, initializers,
-    models::_entities::{notes, users},
+    models::_entities::{notes, users, letypes, marques, familles, depots, centres, marque_oems, contacts, famille_mtcs,},
     tasks,
     workers::downloader::DownloadWorker,
 };
@@ -80,6 +80,16 @@ impl Hooks for App {
     async fn seed(db: &DatabaseConnection, base: &Path) -> Result<()> {
         db::seed::<users::ActiveModel>(db, &base.join("users.yaml").display().to_string()).await?;
         db::seed::<notes::ActiveModel>(db, &base.join("notes.yaml").display().to_string()).await?;
+        //
+        db::seed::<letypes::ActiveModel>(db, &base.join("letypes.yaml").display().to_string()).await?;
+        db::seed::<marques::ActiveModel>(db, &base.join("marques.yaml").display().to_string()).await?;
+        db::seed::<familles::ActiveModel>(db, &base.join("familles.yaml").display().to_string()).await?;
+        db::seed::<depots::ActiveModel>(db, &base.join("depots.yaml").display().to_string()).await?;
+        db::seed::<centres::ActiveModel>(db, &base.join("centres.yaml").display().to_string()).await?;
+        db::seed::<marque_oems::ActiveModel>(db, &base.join("marque_oems.yaml").display().to_string()).await?;
+        db::seed::<contacts::ActiveModel>(db, &base.join("contacts.yaml").display().to_string()).await?;
+        db::seed::<famille_mtcs::ActiveModel>(db, &base.join("famille_mtcs.yaml").display().to_string()).await?;
+        //
         Ok(())
     }
 }
