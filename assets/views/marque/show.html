@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <script src="https://cdn.tailwindcss.com?plugins=forms,typography,aspect-ratio,line-clamp"></script>
+</head>
+
+<body class="prose p-10">
+    <h1>View marque: {{ item.id }}</h1>
+    <div class="mb-10">
+     <div>
+        <label><b>{{"marque" | capitalize }}:</b> {{item.marque}}</label>
+        </div>
+    <br />
+    <a href="/marques">Back to marques</a>
+    </div>
+</body>
+
+</html>

@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <script src="https://unpkg.com/htmx.org@2.0.0/dist/htmx.min.js"></script>
+    <script src="https://cdn.tailwindcss.com?plugins=forms,typography,aspect-ratio,line-clamp"></script>
+</head>
+
+<body class="prose p-10">
+     <h1>marque</h1>
+     <div class="mb-10">
+    {% for item in items %}
+    <div class="mb-5">
+            <div>
+                <label><b>{{"marque" | capitalize }}:</b> {{item.marque}}</label>
+                </div>
+            <a href="/marques/{{ item.id }}/edit">Edit</a>
+            <a href="/marques/{{ item.id }}">View</a>
+        </div>
+    {% endfor %}
+
+    <br />
+    <br />
+    <a href="/marques/new">New marque</a>
+    </div>
+</body>
+
+</html>

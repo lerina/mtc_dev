@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <script src="https://cdn.tailwindcss.com?plugins=forms,typography,aspect-ratio,line-clamp"></script>
+</head>
+
+<body class="prose p-10">
+    <h1>View contact: {{ item.id }}</h1>
+    <div class="mb-10">
+     <div>
+        <label><b>{{"name" | capitalize }}:</b> {{item.name}}</label>
+        </div>
+    <div>
+        <label><b>{{"phone" | capitalize }}:</b> {{item.phone}}</label>
+        </div>
+    <div>
+        <label><b>{{"email" | capitalize }}:</b> {{item.email}}</label>
+        </div>
+    <br />
+    <a href="/contacts">Back to contacts</a>
+    </div>
+</body>
+
+</html>
