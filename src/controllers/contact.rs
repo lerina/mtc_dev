@@ -40,6 +40,8 @@ pub async fn list(
         .order_by(Column::Id, Order::Desc)
         .all(&ctx.db)
         .await?;
+    if item.len() == 1 { return views::contact::main_contact(&v, &item[0]);}
+
     views::contact::list(&v, &item)
 }
 
@@ -106,7 +108,7 @@ pub async fn remove(Path(id): Path<i32>, State(ctx): State<AppContext>) -> Resul
 
 pub fn routes() -> Routes {
     Routes::new()
-        .prefix("contacts")
+        .prefix("admin/contacts")
         .add("/", get(list))
         .add("/new", get(new))
         .add("/:id", get(show))

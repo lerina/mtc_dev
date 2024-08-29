@@ -8,7 +8,7 @@ use crate::models::_entities::centres;
 ///
 /// When there is an issue with rendering the view.
 pub fn list(v: &impl ViewRenderer, items: &Vec<centres::Model>) -> Result<Response> {
-    format::render().view(v, "centre/list.html", serde_json::json!({"items": items}))
+    format::render().view(v, "admin/centre/list.html", serde_json::json!({"items": items}))
 }
 
 /// Render a single centre view.
@@ -17,7 +17,7 @@ pub fn list(v: &impl ViewRenderer, items: &Vec<centres::Model>) -> Result<Respon
 ///
 /// When there is an issue with rendering the view.
 pub fn show(v: &impl ViewRenderer, item: &centres::Model) -> Result<Response> {
-    format::render().view(v, "centre/show.html", serde_json::json!({"item": item}))
+    format::render().view(v, "admin/centre/show.html", serde_json::json!({"item": item}))
 }
 
 /// Render a centre create form.
@@ -26,7 +26,7 @@ pub fn show(v: &impl ViewRenderer, item: &centres::Model) -> Result<Response> {
 ///
 /// When there is an issue with rendering the view.
 pub fn create(v: &impl ViewRenderer) -> Result<Response> {
-    format::render().view(v, "centre/create.html", serde_json::json!({}))
+    format::render().view(v, "admin/centre/create.html", serde_json::json!({}))
 }
 
 /// Render a centre edit form.
@@ -35,5 +35,5 @@ pub fn create(v: &impl ViewRenderer) -> Result<Response> {
 ///
 /// When there is an issue with rendering the view.
 pub fn edit(v: &impl ViewRenderer, item: &centres::Model) -> Result<Response> {
-    format::render().view(v, "centre/edit.html", serde_json::json!({"item": item}))
+    format::render().view(v, "admin/centre/edit.html", serde_json::json!({"item": item}))
 }

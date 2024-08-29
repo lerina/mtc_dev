@@ -102,7 +102,7 @@ pub async fn remove(Path(id): Path<i32>, State(ctx): State<AppContext>) -> Resul
 
 pub fn routes() -> Routes {
     Routes::new()
-        .prefix("marque_oems")
+        .prefix("admin/marque_oems")
         .add("/", get(list))
         .add("/new", get(new))
         .add("/:id", get(show))

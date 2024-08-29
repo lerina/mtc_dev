@@ -102,7 +102,7 @@ pub async fn remove(Path(id): Path<i32>, State(ctx): State<AppContext>) -> Resul
 
 pub fn routes() -> Routes {
     Routes::new()
-        .prefix("letypes")
+        .prefix("admin/letypes")
         .add("/", get(list))
         .add("/new", get(new))
         .add("/:id", get(show))

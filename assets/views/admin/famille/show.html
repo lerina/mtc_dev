@@ -1,0 +1,15 @@
+{% extends "admin/base.html" %}
+{% block title %}ADMIN - centre{% endblock title %}
+{% block head %}
+    {{ super() }}
+{% endblock head %}
+{% block content %}
+    <h1>View famille: {{ item.id }}</h1>
+    <div class="mb-10">
+     <div>
+        <label><b>{{"famille" | capitalize }}:</b> {{item.famille}}</label>
+        </div>
+    <br />
+    <a href="/admin/familles">Back to familles</a>
+    </div>
+{% endblock content %}

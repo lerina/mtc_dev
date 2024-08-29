@@ -8,7 +8,10 @@ use crate::models::_entities::contacts;
 ///
 /// When there is an issue with rendering the view.
 pub fn list(v: &impl ViewRenderer, items: &Vec<contacts::Model>) -> Result<Response> {
-    format::render().view(v, "contact/list.html", serde_json::json!({"items": items}))
+    format::render().view(v, "admin/contact/list.html", serde_json::json!({"items": items}))
+}
+pub fn main_contact(v: &impl ViewRenderer, item: &contacts::Model) -> Result<Response> {
+    format::render().view(v, "admin/contact/main_contact.html", serde_json::json!({"item": item}))
 }
 
 /// Render a single contact view.
@@ -17,7 +20,7 @@ pub fn list(v: &impl ViewRenderer, items: &Vec<contacts::Model>) -> Result<Respo
 ///
 /// When there is an issue with rendering the view.
 pub fn show(v: &impl ViewRenderer, item: &contacts::Model) -> Result<Response> {
-    format::render().view(v, "contact/show.html", serde_json::json!({"item": item}))
+    format::render().view(v, "admin/contact/show.html", serde_json::json!({"item": item}))
 }
 
 /// Render a contact create form.
@@ -26,7 +29,7 @@ pub fn show(v: &impl ViewRenderer, item: &contacts::Model) -> Result<Response> {
 ///
 /// When there is an issue with rendering the view.
 pub fn create(v: &impl ViewRenderer) -> Result<Response> {
-    format::render().view(v, "contact/create.html", serde_json::json!({}))
+    format::render().view(v, "admin/contact/create.html", serde_json::json!({}))
 }
 
 /// Render a contact edit form.
@@ -35,5 +38,5 @@ pub fn create(v: &impl ViewRenderer) -> Result<Response> {
 ///
 /// When there is an issue with rendering the view.
 pub fn edit(v: &impl ViewRenderer, item: &contacts::Model) -> Result<Response> {
-    format::render().view(v, "contact/edit.html", serde_json::json!({"item": item}))
+    format::render().view(v, "admin/contact/edit.html", serde_json::json!({"item": item}))
 }

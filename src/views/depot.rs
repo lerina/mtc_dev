@@ -8,7 +8,7 @@ use crate::models::_entities::depots;
 ///
 /// When there is an issue with rendering the view.
 pub fn list(v: &impl ViewRenderer, items: &Vec<depots::Model>) -> Result<Response> {
-    format::render().view(v, "depot/list.html", serde_json::json!({"items": items}))
+    format::render().view(v, "admin/depot/list.html", serde_json::json!({"items": items}))
 }
 
 /// Render a single depot view.
@@ -17,7 +17,7 @@ pub fn list(v: &impl ViewRenderer, items: &Vec<depots::Model>) -> Result<Respons
 ///
 /// When there is an issue with rendering the view.
 pub fn show(v: &impl ViewRenderer, item: &depots::Model) -> Result<Response> {
-    format::render().view(v, "depot/show.html", serde_json::json!({"item": item}))
+    format::render().view(v, "admin/depot/show.html", serde_json::json!({"item": item}))
 }
 
 /// Render a depot create form.
@@ -26,7 +26,7 @@ pub fn show(v: &impl ViewRenderer, item: &depots::Model) -> Result<Response> {
 ///
 /// When there is an issue with rendering the view.
 pub fn create(v: &impl ViewRenderer) -> Result<Response> {
-    format::render().view(v, "depot/create.html", serde_json::json!({}))
+    format::render().view(v, "admin/depot/create.html", serde_json::json!({}))
 }
 
 /// Render a depot edit form.
@@ -35,5 +35,5 @@ pub fn create(v: &impl ViewRenderer) -> Result<Response> {
 ///
 /// When there is an issue with rendering the view.
 pub fn edit(v: &impl ViewRenderer, item: &depots::Model) -> Result<Response> {
-    format::render().view(v, "depot/edit.html", serde_json::json!({"item": item}))
+    format::render().view(v, "admin/depot/edit.html", serde_json::json!({"item": item}))
 }

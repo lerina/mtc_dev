@@ -8,7 +8,7 @@ use crate::models::_entities::marques;
 ///
 /// When there is an issue with rendering the view.
 pub fn list(v: &impl ViewRenderer, items: &Vec<marques::Model>) -> Result<Response> {
-    format::render().view(v, "marque/list.html", serde_json::json!({"items": items}))
+    format::render().view(v, "admin/marque/list.html", serde_json::json!({"items": items}))
 }
 
 /// Render a single marque view.
@@ -17,7 +17,7 @@ pub fn list(v: &impl ViewRenderer, items: &Vec<marques::Model>) -> Result<Respon
 ///
 /// When there is an issue with rendering the view.
 pub fn show(v: &impl ViewRenderer, item: &marques::Model) -> Result<Response> {
-    format::render().view(v, "marque/show.html", serde_json::json!({"item": item}))
+    format::render().view(v, "admin/marque/show.html", serde_json::json!({"item": item}))
 }
 
 /// Render a marque create form.
@@ -26,7 +26,7 @@ pub fn show(v: &impl ViewRenderer, item: &marques::Model) -> Result<Response> {
 ///
 /// When there is an issue with rendering the view.
 pub fn create(v: &impl ViewRenderer) -> Result<Response> {
-    format::render().view(v, "marque/create.html", serde_json::json!({}))
+    format::render().view(v, "admin/marque/create.html", serde_json::json!({}))
 }
 
 /// Render a marque edit form.
@@ -35,5 +35,5 @@ pub fn create(v: &impl ViewRenderer) -> Result<Response> {
 ///
 /// When there is an issue with rendering the view.
 pub fn edit(v: &impl ViewRenderer, item: &marques::Model) -> Result<Response> {
-    format::render().view(v, "marque/edit.html", serde_json::json!({"item": item}))
+    format::render().view(v, "admin/marque/edit.html", serde_json::json!({"item": item}))
 }
